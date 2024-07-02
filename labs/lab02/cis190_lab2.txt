@@ -1,3 +1,5 @@
 1. Display help about ls command while at the command line, Give your command.
 	man ls
-	
+2. Use the man page to determine how to make ls display long listings with file sizes in human-readable format, Give your command.
+	-1 and -s
+
