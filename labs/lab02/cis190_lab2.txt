@@ -1,3 +1,16 @@
 1. Display help about ls command while at the command line, Give your command.
 	man ls
+2. Use the man page to determine how to make Is display long listings with file sizes in human-readable format, Give your command.
+	-1 and -s
+3. Read the man page for the mkdir command. Give the command and describe how to exit the man page.
+	mkdir and to exit man page type q to quit man page.
+4. Read the man page for the mkdir command again and this time search for "parent" in that man page. Give the command you used to search for parent.
+	-p
+5. Reopen the man page for mkdir then suspend that process (This is a review command from last week). Give the command to suspend.
+	CTRL+z
+6. Now you are back at the command line, give the command to show suspended jobs. Give the command.
+	CTRL+z
+7. Give the command to restart your suspended job. 
+	bg
+8. Using sudo, run the command "ls ~/home" with superuser privileges. Give the command and your answer.
 	
