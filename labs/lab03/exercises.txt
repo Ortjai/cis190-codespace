@@ -26,3 +26,9 @@ Commmands used to create the file system structure
     du Commmand or ls -s
 13. Move 'n890mn.cfg' from 'mq-9' to 'mq-20'.
     sudo mv n890mn.cfg mq-20
+14. Create a symbolic link to 'n101gh.cfg' in the 'locations' directory.
+    ln -s n101gh.cfg
+15. Navigate to 'mq-1c' using an absolute path.
+    cd /data/aircraft/configurations/mq-1c
+16. Remove the symbolic link to 'xq-67a' in the 'locations' directory.
+    rm xq-67a
