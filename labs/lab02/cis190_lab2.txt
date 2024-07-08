@@ -21,6 +21,3 @@
 	su and to run commands with superuser privileges, use the sudo command.
 9. Describe how to select a strong password.
 	Using open ssl.
-=======
-	
->>>>>>> refs/remotes/origin/main
