@@ -1,2 +1,12 @@
-Commmands used to create the file sytem structure
-    sudo su, sudo mkdir, sudo touch, cd, pwd,
+Commmands used to create the file system structure
+    sudo su, sudo mkdir, sudo touch, cd, pwd.
+1. Navigate to the 'mq-9' directory using an absolute path.
+    Answer: cd /data/aircraft/configurations/mq-9
+2. Navigate to the 'xq-67a' directory using a relative path from 'configurations'.
+    cd xq-67a/
+3. Move 'n345qr.cfg' to the 'mq-1c' directory.
+    mv n345qr.cfg mq-1c
+4. Move 'n678st.cfg' to the 'mojave' directory.
+    mv n678st.cfg mojave
+5. Create a backup directory in 'aircraft' and copy all the configuration files into it.
+    cp -r configurations aircraft_backup
