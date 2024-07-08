@@ -10,4 +10,19 @@ Commmands used to create the file system structure
     mv n678st.cfg mojave
 5. Create a backup directory in 'aircraft' and copy all the configuration files into it.
     cp -r configurations aircraft_backup
-    
+6. List the i-nodes of all configuration files in 'mq-20'
+    "ls -i" in the mq-20 directory
+7. Remove the 'mq-9b' directory using 'rmdir' and explain the error message.
+    The directory is not empty. 
+8. Create a 'locations' directory in 'aircraft'.
+    mkdir locations
+9. Create symbolic links in 'locations' to the 'xq-67a', 'mq-1c', and 'mq-9' directories.
+    ls -s 'xq-67a', 'mq-1c', and 'mq-9'
+10. Navigate to 'mojave' using a relative path from 'aircraft'.
+    cd mojave/
+11. Copy 'n112op.cfg' to the 'backup' directory.
+    cp n112op.cfg aircraft_backup
+12. List all files in the 'configurations' directory with their sizes.
+    du Commmand or ls -s
+13. Move 'n890mn.cfg' from 'mq-9' to 'mq-20'.
+    sudo mv n890mn.cfg mq-20
