@@ -1,0 +1,2 @@
+Commmands used to create the file sytem structure
+    sudo su, sudo mkdir, sudo touch, cd, pwd,
