@@ -10,3 +10,4 @@ Commmands used to create the file system structure
     mv n678st.cfg mojave
 5. Create a backup directory in 'aircraft' and copy all the configuration files into it.
     cp -r configurations aircraft_backup
+    
