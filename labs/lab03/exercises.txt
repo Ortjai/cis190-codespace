@@ -32,3 +32,11 @@ Commmands used to create the file system structure
     cd /data/aircraft/configurations/mq-1c
 16. Remove the symbolic link to 'xq-67a' in the 'locations' directory.
     rm xq-67a
+17. Create a new configuration file 'n567kl.cfg' in the 'mojave' directory.
+     sudo touch n567l.cfg
+18. Display the disk usage of the 'configurations' directory.
+    df command in the configuration directory. 
+19. Create a directory 'test' inside 'mq-9' and remove it using 'rmdir'.
+    Sudo mkdir & sudo rmdir
+20. Rename 'index.cfg' in 'xq-67a' to 'main.cfg'.
+    sudo mv index.cfg main.cfg
