@@ -2,7 +2,6 @@
 2. An absolute path is a complete path to a file or directory that starts at the root directory. The / indicates a path is absolute.
 3. A relative patch starts at your cuurent directory and never with a /.
 4. ~/Documents/cis190 ls Downloads
-<<<<<<< HEAD
 5. ls -d test
 6. ortjai~$ ls -1 ~/test/
 7. Unix/linux utilities have a singular purpose so that it makes things easier to understand and maintain.
