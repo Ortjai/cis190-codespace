@@ -1,0 +1,67 @@
+Script started on 2024-07-19 21:53:20+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="251" LINES="28"]
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ exot[K[Kot[K[Koi[K[Kit
+exit
+
+Script done on 2024-07-19 21:53:44+00:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-07-19 21:57:07+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="251" LINES="28"]
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ [H[2J[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd logs/configs/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/logs/configs [0;36m([1;31mmain[0;36m) [0m$ cd .n456[K[K[K[K[Kn456cd/
+[0;32m@Ortjai [0m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ head -10 config_1.ini config_2.ini
+==> config_1.ini <==
+[mission]
+mission_id = MISS-3634
+objective = Patrol
+start_time = 17:45
+duration_minutes = 360
+
+[drone]
+tail_number = n456cd
+max_altitude = 50000
+max_speed = 400
+
+==> config_2.ini <==
+[mission]
+mission_id = MISS-8258
+objective = Engagement
+start_time = 20:15
+duration_minutes = 210
+
+[drone]
+tail_number = n456cd
+max_altitude = 20000
+max_speed = 400
+[0;32m@Ortjai [0m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ Tail [K[K[K[K[Khead -10 config_1.ini config_2.ini[1P[1P[1P[1P[1@T[1@a[1@i[1@l
+bash: Tail: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ Tail config_1.ini config_2.ini
+bash: Tail: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ Ta[K[Ktail Tail config_1.ini config_2.ini[1P[1@t
+==> config_1.ini <==
+waypoint_2 = -12.680699, -9.550498, 1876
+waypoint_3 = 74.576984, 119.556446, 1618
+waypoint_4 = 58.691801, -101.169707, 1182
+waypoint_5 = 75.334927, 102.763581, 538
+waypoint_6 = 72.273591, -75.473624, 1272
+waypoint_7 = 72.718595, -170.751813, 1122
+waypoint_8 = 15.835668, 66.396993, 724
+waypoint_9 = 8.739251, 179.824648, 194
+waypoint_10 = 88.105814, 137.38576, 1945
+
+
+==> config_2.ini <==
+waypoint_2 = 32.112778, -12.041067, 393
+waypoint_3 = -67.216556, 15.735837, 493
+waypoint_4 = 86.718933, -167.632601, 805
+waypoint_5 = -61.850368, 94.285816, 1970
+waypoint_6 = -42.423122, -34.781124, 1191
+waypoint_7 = 74.349059, 126.832959, 841
+waypoint_8 = -62.28365, -29.046736, 725
+waypoint_9 = 41.232856, 63.482861, 638
+waypoint_10 = 17.614067, 81.488661, 1156
+
+[0;32m@Ortjai [0m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ [H[2J[0;32m@Ortjai [0m➜ [1;34m.../lab04/logs/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/logs/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/logs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ exit 
+exit
+
+Script done on 2024-07-19 22:10:56+00:00 [COMMAND_EXIT_CODE="0"]
