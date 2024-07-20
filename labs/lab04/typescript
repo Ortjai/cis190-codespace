@@ -1,0 +1,1078 @@
+Script started on 2024-07-19 22:31:16+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="266" LINES="31"]
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cleartr[1Pd ..lear[1Pquitscript quit[7Pquittar zxf lab04.tgzwget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz
+--2024-07-19 22:31:32--  https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz
+Resolving boss.vvc.edu (boss.vvc.edu)... 207.233.102.33
+Connecting to boss.vvc.edu (boss.vvc.edu)|207.233.102.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12526 (12K) [application/octet-stream]
+Saving to: ‘lab04.tgz’
+
+lab04.tgz                                                            0%[                                                                                                                                                               ]       0  --.-KB/s               lab04.tgz                                                          100%[==============================================================================================================================================================>]  12.23K  --.-KB/s    in 0.01s   
+
+2024-07-19 22:31:32 (1.00 MB/s) - ‘lab04.tgz’ saved [12526/12526]
+
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ tar ztf lab04.tgz 
+configs/
+configs/n567kl/
+configs/n123ab/
+configs/tailnumbers.txt
+configs/n678st/
+configs/n112op/
+configs/n223wx/
+configs/n101gh/
+configs/n789ef/
+configs/n234ij/
+configs/n890mn/
+configs/n456cd/
+configs/n456cd/config_4.ini
+configs/n456cd/config_5.ini
+configs/n456cd/config_2.ini
+configs/n456cd/config_3.ini
+configs/n456cd/config_1.ini
+configs/n890mn/config_4.ini
+configs/n890mn/config_5.ini
+configs/n890mn/config_2.ini
+configs/n890mn/config_3.ini
+configs/n890mn/config_1.ini
+configs/n234ij/config_4.ini
+configs/n234ij/config_5.ini
+configs/n234ij/config_2.ini
+configs/n234ij/config_3.ini
+configs/n234ij/config_1.ini
+configs/n789ef/config_4.ini
+configs/n789ef/config_5.ini
+configs/n789ef/config_2.ini
+configs/n789ef/config_3.ini
+configs/n789ef/config_1.ini
+configs/n101gh/config_4.ini
+configs/n101gh/config_5.ini
+configs/n101gh/config_2.ini
+configs/n101gh/config_3.ini
+configs/n101gh/config_1.ini
+configs/n101gh/config_1a.ini
+configs/n223wx/config_4.ini
+configs/n223wx/config_5.ini
+configs/n223wx/config_2.ini
+configs/n223wx/config_3.ini
+configs/n223wx/config_1.ini
+configs/n112op/config_4.ini
+configs/n112op/config_5.ini
+configs/n112op/config_2.ini
+configs/n112op/config_3.ini
+configs/n112op/config_1.ini
+configs/n678st/config_4.ini
+configs/n678st/config_5.ini
+configs/n678st/config_2.ini
+configs/n678st/config_3.ini
+configs/n678st/config_1.ini
+configs/n123ab/config_4.ini
+configs/n123ab/config_5.ini
+configs/n123ab/config_2.ini
+configs/n123ab/config_3.ini
+configs/n123ab/config_1.ini
+configs/n567kl/config_4.ini
+configs/n567kl/config_5.ini
+configs/n567kl/config_2.ini
+configs/n567kl/config_3.ini
+configs/n567kl/config_1.ini
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ mkdir[K[K[K[K[Ktar ztf lab04.tgz wget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Ktr[1Pd ..lear[1Pquitscript quit[7Pquittar zxf lab04.tgzwget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctar zxf lab04.tgz[K
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ ls -1
+[0m[01;34mconfigs[0m
+[01;31mlab04.tgz[0m
+typescript
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd .con[K[K[K[Kconfigs/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ la[Ks 0[K-1
+[0m[01;34mn101gh[0m
+[01;34mn112op[0m
+[01;34mn123ab[0m
+[01;34mn223wx[0m
+[01;34mn234ij[0m
+[01;34mn456cd[0m
+[01;34mn567kl[0m
+[01;34mn678st[0m
+[01;34mn789ef[0m
+[01;34mn890mn[0m
+tailnumbers.txt
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd..
+bash: cd..: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab03
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab03 [0;36m([1;31mmain[0;36m) [0m$ cd ai[K[Kdata/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mkdir n223wx
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cp [K[K[Kcp configurations/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kconfig_1.ini n223wx/
+cp: cannot stat 'config_1.ini': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cp config_1.ini n223wx/[K
+cp: cannot stat 'config_1.ini': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab03/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab03 [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab04
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ n[Kcd m [K[Kn234ij/[K[K[K[K3[K[K[K[Kn 22`[K[K[K[K223wx/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ mvcd n223wx/configs/[3Plab04[3P..p config_1.ini n223wx/[11Pmkdir n223wxcd data/aircraft/[9Plab03[3P..[1P.. ..ls -1cd configs/[6Pls -1tar zxf lab04.tgztf lab04.tgz wget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Ktr[1Pd ..lear[1Pquitscript quit[7Pquittar zxf lab04.tgzwget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript[Kcd lab04[3@mkdir[C[C[C[C[C[C[3Pcd labs/tar ztf lab04.tgzwget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript -a[K[1Pcd lab04[3Plearscript -a [5Pclearscript[1Pclearscript[3Ppwdquitclearear[1Pd ..script -a file[K[K[1Pcleard lab04[3P..logs/configs/[8Pab04[K[K[K[K[K[K[K[Kcd labs/[4Pexitwget https://boss.vvc.edu/tonning/classes/cis190/resources/lab04.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd lab04[3@mkdir[C[C[C[C[C[C[7Pexit cd ..tail config_1.ini config_2.iniT[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@-10 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chead[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd n456cd/[K[K[K[K[K[K[K[K[K[K[Kvp [K[K[Kcp config_1.ini n[Kn223[K[K[K[K[Kn2[K[K[Ki n22`[K3wx
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cp config_2.ini n223wx 
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ diff config_1.ini config_2.ini 
+2c2
+< mission_id = MISS-7913
+---
+> mission_id = MISS-7914
+9,10c9,10
+< max_altitude = 40000
+< max_speed = 500
+---
+> max_altitude = 30000
+> max_speed = 200
+24,25c24,25
+< log_level = DEBUG
+< log_file = /data/logs/n223wx-MISS-7913.log
+---
+> log_level = ERROR
+> log_file = /data/logs/n223wx-MISS-7914.log
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n9[K890mn/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ file config_1.ini 
+config_1.ini: bzip2 compressed data, block size = 900k
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ BZIP[K[K[K[Kbzip [K[K[K[K[Kbz [Kcat c[Kcon[K[K[K[K confid[Kg[K[K[K[K[K[Kconfig_1.ini
+[mission]
+mission_id = MISS-5158
+objective = Engagement
+start_time = 12:45
+duration_minutes = 180
+
+[drone]
+tail_number = n890mn
+max_altitude = 10000
+max_speed = 250
+payload_capacity = 550
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 3.28
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n890mn-MISS-5158.log
+
+[waypoints]
+waypoint_1 = 84.980788, -86.016524, 1533
+waypoint_2 = 81.807711, -138.487072, 1263
+waypoint_3 = -37.341804, -58.442351, 130
+waypoint_4 = 11.15891, 155.133732, 1234
+waypoint_5 = -31.33362, 168.860799, 465
+waypoint_6 = -18.869568, 25.004442, 1343
+waypoint_7 = -88.376913, 163.880079, 1261
+waypoint_8 = -43.837074, 145.609756, 531
+waypoint_9 = -74.808728, 137.050896, 1091
+waypoint_10 = 47.512843, 154.162226, 424
+
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n890mn [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n
+n101gh/ n112op/ n123ab/ n223wx/ n234ij/ n456cd/ n567kl/ n678st/ n789ef/ n890mn/ 
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n234ij/[K[K[K[K[K23wx/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ prep[K[K[K[Kgerp[K[K[Krep mission
+^C
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ grep mission n223wx [K
+[[01;31m[Kmission[m[K]
+[01;31m[Kmission[m[K_id = MISS-7914
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n223wx [0;36m([1;31mmain[0;36m) [0m$ cd .con[K[K[K[Kn456cd[K[K[K[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n[Kn456cd/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ head -10 config_1.ini [K
+[mission]
+mission_id = MISS-3634
+objective = Patrol
+start_time = 17:45
+duration_minutes = 360
+
+[drone]
+tail_number = n456cd
+max_altitude = 50000
+max_speed = 400
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ tail config_2.ini [K
+waypoint_2 = 32.112778, -12.041067, 393
+waypoint_3 = -67.216556, 15.735837, 493
+waypoint_4 = 86.718933, -167.632601, 805
+waypoint_5 = -61.850368, 94.285816, 1970
+waypoint_6 = -42.423122, -34.781124, 1191
+waypoint_7 = 74.349059, 126.832959, 841
+waypoint_8 = -62.28365, -29.046736, 725
+waypoint_9 = 41.232856, 63.482861, 638
+waypoint_10 = 17.614067, 81.488661, 1156
+
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cat config_1.ini config_2.ini [K
+[mission]
+mission_id = MISS-3634
+objective = Patrol
+start_time = 17:45
+duration_minutes = 360
+
+[drone]
+tail_number = n456cd
+max_altitude = 50000
+max_speed = 400
+payload_capacity = 625
+
+[camera]
+resolution = 4K
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 3.36
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n456cd-MISS-3634.log
+
+[waypoints]
+waypoint_1 = 86.097166, 11.149865, 1578
+waypoint_2 = -12.680699, -9.550498, 1876
+waypoint_3 = 74.576984, 119.556446, 1618
+waypoint_4 = 58.691801, -101.169707, 1182
+waypoint_5 = 75.334927, 102.763581, 538
+waypoint_6 = 72.273591, -75.473624, 1272
+waypoint_7 = 72.718595, -170.751813, 1122
+waypoint_8 = 15.835668, 66.396993, 724
+waypoint_9 = 8.739251, 179.824648, 194
+waypoint_10 = 88.105814, 137.38576, 1945
+
+[mission]
+mission_id = MISS-8258
+objective = Engagement
+start_time = 20:15
+duration_minutes = 210
+
+[drone]
+tail_number = n456cd
+max_altitude = 20000
+max_speed = 400
+payload_capacity = 525
+
+[camera]
+resolution = 720p
+frame_rate = 60
+infrared = False
+lidar = True
+
+[communication]
+frequency = 4.89
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n456cd-MISS-8258.log
+
+[waypoints]
+waypoint_1 = -1.492885, 54.035632, 395
+waypoint_2 = 32.112778, -12.041067, 393
+waypoint_3 = -67.216556, 15.735837, 493
+waypoint_4 = 86.718933, -167.632601, 805
+waypoint_5 = -61.850368, 94.285816, 1970
+waypoint_6 = -42.423122, -34.781124, 1191
+waypoint_7 = 74.349059, 126.832959, 841
+waypoint_8 = -62.28365, -29.046736, 725
+waypoint_9 = 41.232856, 63.482861, 638
+waypoint_10 = 17.614067, 81.488661, 1156
+
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab03
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab03 [0;36m([1;31mmain[0;36m) [0m$ cd a[Kdata/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mkdir n456cd
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd n[Kn45f[K6cd/
+[0;32m@Ortjai [0m➜ [1;34m.../lab03/data/aircraft/n456cd [0;36m([1;31mmain[0;36m) [0m$ mv confug[K[Kig[K[K[K[K[K[Kconfig_3.ini n456cd
+mv: cannot stat 'config_3.ini': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../lab03/data/aircraft/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab03/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab03/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab03 [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd lab0
+bash: cd: lab0: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd c[K[K[K[Kcd lab0[C4
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/lab04 [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ CD N[K[K[K[Kcd n
+n101gh/ n112op/ n123ab/ n223wx/ n234ij/ n456cd/ n567kl/ n678st/ n789ef/ n890mn/ 
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n
+n101gh/ n112op/ n123ab/ n223wx/ n234ij/ n456cd/ n567kl/ n678st/ n789ef/ n890mn/ 
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n456cd/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ cd n456cd/configs/[3Plab04[K[2P..mv config_3.ini n456cd
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n456cd [0;36m([1;31mmain[0;36m) [0m$ mv config_3.ini n456cd[K[K[K[K[K[Klb[Ka[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ sort tailnumbers.txt
+n101gh
+n101gh
+n101gh
+n101gh
+n112op
+n112op
+n112op
+n112op
+n112op
+n123ab
+n223wx
+n223wx
+n223wx
+n223wx
+n234ij
+n234ij
+n234ij
+n234ij
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n456cd
+n567kl
+n567kl
+n567kl
+n678st
+n678st
+n678st
+n678st
+n678st
+n789ef
+n789ef
+n789ef
+n789ef
+n890mn
+n890mn
+n890mn
+n890mn
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ grep [C[C[K[K[K[K[Kuniq [C[Csort tailnumbers.txt[C[1P tailnumbers.txt[1P tailnumbers.txt[1P tailnumbers.txt[1P tailnumbers.txtu tailnumbers.txtn tailnumbers.txtn tailnumbers.txti tailnumbers.txtq tailnumbers.txt[1P tailnumbers.txt[1P tailnumbers.txt[1P tailnumbers.txti tailnumbers.txtq tailnumbers.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+n112op
+n234ij
+n567kl
+n456cd
+n678st
+n101gh
+n123ab
+n789ef
+n223wx
+n890mn
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ c
+Display all 104 possibilities? (y or n)
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ c[Kbzip con[K[K[Kconfig_1.ini
+bash: bzip: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd c[K[K[K[Kn [K[Kcd nq[Kww[K[K112op/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ cd n112op/bzip config_1.ini
+bash: bzip: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ c[Kbzip2 n[Kconf[K[K[K[Kconfig_1.ini
+bzip2: Can't open input file config_1.ini: No such file or directory.
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ n
+Display all 155 possibilities? (y or n)
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ n
+bash: n: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ cd n[Kn[K[K[K[Knbzip2 config_1.inicd ..[Kbzip config_1.ini[7Pcd n112op/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ b[Kcd n112op/n[Kbzip2 config_1.ini
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ bunzip2 config_1.ini
+bunzip2: Can't open input file config_1.ini: No such file or directory.
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ cd con[K[K[K[K[K[Kbunzip2 config_1.ini
+bunzip2: Can't open input file config_1.ini: No such file or directory.
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ bun[K[K[Kbunzip2 config_1.ini[C[C[C[C.bz2
+[0;32m@Ortjai [0m➜ [1;34m.../labs/lab04/configs/n112op [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ mk[K[Ktar zcf newconfigs.tgz
+tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tar zcf newconfigs.tgz configs
+tar: configs: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tar zxf newconfigs.tgz [K
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ locate gzip
+bash: locate: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ find gzip
+find: ‘gzip’: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ whereis gzip
+gzip: /usr/bin/gzip /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ whixh[K[Kch is gzip[K[K[K[K[K[K[K[K[Khis gzip
+bash: whichis: command not found
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ uptine[K[Kme
+ 00:02:31 up  2:16,  0 users,  load average: 0.89, 0.37, 0.23
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ free
+              total        used        free      shared  buff/cache   available
+Mem:        8119864     2604316     1058276       69348     4457272     5123788
+Swap:             0           0           0
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ hostname
+codespaces-92ae4c
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ tp[Kop
+[?1h=[?25l[H[2J(B[mtop - 00:03:37 up  2:18,  0 users,  load average: 0.33, 0.32, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  3.2 (B[m[39;49mus,(B[m[39;49m[1m  3.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 93.5 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1043.4 (B[m[39;49mfree,(B[m[39;49m[1m   2532.8 (B[m[39;49mused,(B[m[39;49m[1m   4353.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5014.2 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                                                                                            (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.96 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.93 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110960  45312 S   0.0   1.4   0:22.82 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71976  42240 S   0.0   0.9   0:09.99 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9935 codespa+  20   0 1240308  53516  41344 S   0.0   0.7   0:00.71 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 324936  50048 S   0.0   4.0   1:37.20 node                                                                                                                                                                                               (B[m[39;49m[K[H(B[mtop - 00:03:40 up  2:18,  0 users,  load average: 0.33, 0.32, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  4.9 (B[m[39;49mus,(B[m[39;49m[1m  5.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 89.4 (B[m[39;49mid,(B[m[39;49m[1m  0.3 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1036.7 (B[m[39;49mfree,(B[m[39;49m[1m   2539.4 (B[m[39;49mused,(B[m[39;49m[1m   4353.4 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5007.6 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331612  50048 S   2.7   4.1   1:14.57 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325164  50048 S   1.0   4.0   1:37.23 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.3   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  72232  42240 S   0.3   0.9   0:10.00 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.93 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110312  45312 S   0.0   1.4   0:22.82 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:03:43 up  2:18,  0 users,  load average: 0.30, 0.32, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  5.9 (B[m[39;49mus,(B[m[39;49m[1m  5.6 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 88.4 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1027.5 (B[m[39;49mfree,(B[m[39;49m[1m   2548.5 (B[m[39;49mused,(B[m[39;49m[1m   4353.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   4998.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325444  50048 S   1.0   4.0   1:37.26 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 331612  50048 S   1.0   4.1   1:14.60 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.3   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71548  42240 S   0.3   0.9   0:10.01 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  42268 codespa+  20   0    7368   2432   2304 S   0.3   0.0   0:00.06 script                                                                                                                                                                                             (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110824  45312 S   0.0   1.4   0:22.82 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:03:46 up  2:18,  0 users,  load average: 0.30, 0.32, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  3.2 (B[m[39;49mus,(B[m[39;49m[1m  5.5 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 91.0 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1026.1 (B[m[39;49mfree,(B[m[39;49m[1m   2549.8 (B[m[39;49mused,(B[m[39;49m[1m   4353.6 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   4997.1 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331740  50048 S   3.0   4.1   1:14.69 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 324924  50048 S   1.0   4.0   1:37.29 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110444  45312 S   0.7   1.4   0:22.84 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71340  42240 S   0.7   0.9   0:10.03 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40137 codespa+  20   0 1240308  55344  41344 S   0.3   0.7   0:00.53 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:03:49 up  2:18,  0 users,  load average: 0.28, 0.31, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  53 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  52 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  5.2 (B[m[39;49mus,(B[m[39;49m[1m  5.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 89.1 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1025.1 (B[m[39;49mfree,(B[m[39;49m[1m   2550.7 (B[m[39;49mused,(B[m[39;49m[1m   4353.7 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   4996.2 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331740  50048 S   2.0   4.1   1:14.75 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325276  50048 S   1.7   4.0   1:37.34 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110196  45312 S   0.3   1.4   0:22.85 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71724  42240 S   0.3   0.9   0:10.04 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:03:52 up  2:18,  0 users,  load average: 0.26, 0.30, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  3.0 (B[m[39;49mus,(B[m[39;49m[1m  3.8 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 93.0 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1048.6 (B[m[39;49mfree,(B[m[39;49m[1m   2527.2 (B[m[39;49mused,(B[m[39;49m[1m   4353.8 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5019.8 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331740  50048 S   1.0   4.1   1:14.78 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 326300  50048 S   0.7   4.0   1:37.36 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m[1m 101304 codespa+  20   0   10892   3456   3072 R   0.3   0.0   0:00.01 top                                                                                                                                                                                                (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110324  45312 S   0.0   1.4   0:22.85 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71852  42240 S   0.0   0.9   0:10.04 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:03:55 up  2:18,  0 users,  load average: 0.26, 0.30, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  4.9 (B[m[39;49mus,(B[m[39;49m[1m  6.1 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 88.8 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1044.4 (B[m[39;49mfree,(B[m[39;49m[1m   2531.2 (B[m[39;49mused,(B[m[39;49m[1m   4353.9 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5015.8 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 324904  50048 S   1.3   4.0   1:37.40 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330824  50048 S   1.3   4.1   1:14.82 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110596  45312 S   0.7   1.4   0:22.87 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  72140  42240 S   0.7   0.9   0:10.06 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:03:58 up  2:18,  0 users,  load average: 0.24, 0.30, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  2.7 (B[m[39;49mus,(B[m[39;49m[1m  2.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 95.3 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1044.4 (B[m[39;49mfree,(B[m[39;49m[1m   2531.2 (B[m[39;49mused,(B[m[39;49m[1m   4354.0 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 330880  50048 S   1.0   4.1   1:14.85 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325072  50048 S   0.7   4.0   1:37.42 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110852  45312 S   0.0   1.4   0:22.87 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71176  42240 S   0.0   0.9   0:10.06 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:01 up  2:18,  0 users,  load average: 0.24, 0.30, 0.22(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  4.2 (B[m[39;49mus,(B[m[39;49m[1m  6.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 89.2 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1041.1 (B[m[39;49mfree,(B[m[39;49m[1m   2534.4 (B[m[39;49mused,(B[m[39;49m[1m   4354.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5012.6 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325380  50048 S   1.7   4.0   1:37.47 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330276  50048 S   1.7   4.1   1:14.90 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71176  42240 S   0.3   0.9   0:10.07 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110980  45312 S   0.0   1.4   0:22.87 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:04 up  2:18,  0 users,  load average: 0.22, 0.29, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  53 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  52 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.5 (B[m[39;49mus,(B[m[39;49m[1m  3.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 94.0 (B[m[39;49mid,(B[m[39;49m[1m  0.3 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1040.9 (B[m[39;49mfree,(B[m[39;49m[1m   2534.6 (B[m[39;49mused,(B[m[39;49m[1m   4354.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5012.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325488  50048 S   1.0   4.0   1:37.50 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330448  50048 S   1.0   4.1   1:14.93 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m[1m 101304 codespa+  20   0   10892   3456   3072 R   0.3   0.0   0:00.02 top                                                                                                                                                                                                (B[m[39;49m[K
+
+
+
+
+
+
+
+
+(B[m   1307 codespa+  20   0 1331608 110228  45312 S   0.0   1.4   0:22.87 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  71176  42240 S   0.0   0.9   0:10.07 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:07 up  2:18,  0 users,  load average: 0.20, 0.29, 0.21(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  4.0 (B[m[39;49mus,(B[m[39;49m[1m  4.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 91.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1039.1 (B[m[39;49mfree,(B[m[39;49m[1m   2536.2 (B[m[39;49mused,(B[m[39;49m[1m   4354.2 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5010.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 324972  50048 S   1.7   4.0   1:37.55 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330000  50048 S   1.3   4.1   1:14.97 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110356  45312 S   0.3   1.4   0:22.88 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40137 codespa+  20   0 1240308  54592  41344 S   0.3   0.7   0:00.54 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:10 up  2:18,  0 users,  load average: 0.20, 0.29, 0.21(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  3.4 (B[m[39;49mus,(B[m[39;49m[1m  4.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 92.4 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1076.5 (B[m[39;49mfree,(B[m[39;49m[1m   2498.7 (B[m[39;49mused,(B[m[39;49m[1m   4354.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5048.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   1766 codespa+  20   0 1386416  70540  42240 S   0.7   0.9   0:10.09 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325164  50048 S   0.7   4.0   1:37.57 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330192  50048 S   0.7   4.1   1:14.99 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110484  45312 S   0.0   1.4   0:22.88 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:13 up  2:18,  0 users,  load average: 0.50, 0.35, 0.24(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  4.4 (B[m[39;49mus,(B[m[39;49m[1m  6.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 89.2 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1044.4 (B[m[39;49mfree,(B[m[39;49m[1m   2530.8 (B[m[39;49mused,(B[m[39;49m[1m   4354.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5016.1 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 329976  50048 S   2.0   4.1   1:15.05 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 324840  50048 S   1.7   4.0   1:37.62 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9935 codespa+  20   0 1240308  53644  41344 S   0.3   0.7   0:00.72 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+(B[m   1307 codespa+  20   0 1331608 110612  45312 S   0.0   1.4   0:22.88 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  72460  42240 S   0.0   0.9   0:10.09 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:16 up  2:18,  0 users,  load average: 0.46, 0.35, 0.23(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  3.3 (B[m[39;49mus,(B[m[39;49m[1m  4.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 92.3 (B[m[39;49mid,(B[m[39;49m[1m  0.3 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1041.4 (B[m[39;49mfree,(B[m[39;49m[1m   2533.7 (B[m[39;49mused,(B[m[39;49m[1m   4354.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5013.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325088  50048 S   0.7   4.0   1:37.64 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330228  50048 S   0.7   4.1   1:15.07 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  72844  42240 S   0.3   0.9   0:10.10 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+(B[m   1307 codespa+  20   0 1331608 110740  45312 S   0.0   1.4   0:22.88 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:19 up  2:18,  0 users,  load average: 0.46, 0.35, 0.23(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  53 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  52 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.7 (B[m[39;49mus,(B[m[39;49m[1m  3.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 93.9 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1040.2 (B[m[39;49mfree,(B[m[39;49m[1m   2534.8 (B[m[39;49mused,(B[m[39;49m[1m   4354.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5012.1 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 326208  50048 S   1.3   4.0   1:37.68 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 329908  50048 S   1.3   4.1   1:15.11 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110868  45312 S   0.0   1.4   0:22.88 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386416  73100  42240 S   0.0   0.9   0:10.10 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:22 up  2:18,  0 users,  load average: 0.43, 0.34, 0.23(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  4.2 (B[m[39;49mus,(B[m[39;49m[1m  5.9 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 89.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1029.3 (B[m[39;49mfree,(B[m[39;49m[1m   2545.6 (B[m[39;49mused,(B[m[39;49m[1m   4354.6 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5001.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325536  50048 S   1.0   4.0   1:37.71 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330100  50048 S   1.0   4.1   1:15.14 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110380  45312 S   0.3   1.4   0:22.89 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72344  42240 S   0.3   0.9   0:10.11 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m[1m 101304 codespa+  20   0   10892   3456   3072 R   0.3   0.0   0:00.03 top                                                                                                                                                                                                (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:25 up  2:18,  0 users,  load average: 0.43, 0.34, 0.23(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   2 (B[m[39;49mrunning,(B[m[39;49m[1m  48 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  3.4 (B[m[39;49mus,(B[m[39;49m[1m  4.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 92.5 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1029.3 (B[m[39;49mfree,(B[m[39;49m[1m   2545.6 (B[m[39;49mused,(B[m[39;49m[1m   4354.7 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5001.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 330684  50048 S   1.7   4.1   1:15.19 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m[1m   9957 codespa+  20   0   21.5g 325320  50048 R   1.0   4.0   1:37.74 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110508  45312 S   0.3   1.4   0:22.90 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72600  42240 S   0.0   0.9   0:10.11 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:28 up  2:18,  0 users,  load average: 0.63, 0.38, 0.25(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  3.8 (B[m[39;49mus,(B[m[39;49m[1m  4.3 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 91.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1029.3 (B[m[39;49mfree,(B[m[39;49m[1m   2545.5 (B[m[39;49mused,(B[m[39;49m[1m   4354.7 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5001.5 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   9957 codespa+  20   0   21.5g 325120  50048 S   1.3   4.0   1:37.78 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m  40120 codespa+  20   0   21.5g 330004  50048 S   0.7   4.1   1:15.21 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72680  42240 S   0.3   0.9   0:10.12 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+(B[m   1307 codespa+  20   0 1331608 110636  45312 S   0.0   1.4   0:22.90 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:31 up  2:18,  0 users,  load average: 0.58, 0.38, 0.25(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  2.4 (B[m[39;49mus,(B[m[39;49m[1m  4.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 92.7 (B[m[39;49mid,(B[m[39;49m[1m  0.3 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1027.1 (B[m[39;49mfree,(B[m[39;49m[1m   2547.7 (B[m[39;49mused,(B[m[39;49m[1m   4354.8 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   4999.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 330852  50048 S   2.7   4.1   1:15.29 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110488  45312 S   1.0   1.4   0:22.93 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325352  50048 S   0.7   4.0   1:37.80 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72808  42240 S   0.3   0.9   0:10.13 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.21 docker-init                                                                                                                                                                                        (B[m[39;49m[K
+(B[m      7 codespa+  20   0    7236   1792   1792 S   0.0   0.0   0:00.01 sleep                                                                                                                                                                                              (B[m[39;49m[K
+(B[m     22 root      20   0   12196   3356   2432 S   0.0   0.0   0:00.00 sshd                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    615 root      20   0 1983432  83940  52224 S   0.0   1.0   0:00.97 dockerd                                                                                                                                                                                            (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.94 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:34 up  2:19,  0 users,  load average: 0.58, 0.38, 0.25(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  53 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  52 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  5.4 (B[m[39;49mus,(B[m[39;49m[1m  6.6 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 87.8 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1056.0 (B[m[39;49mfree,(B[m[39;49m[1m   2518.7 (B[m[39;49mused,(B[m[39;49m[1m   4354.9 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5028.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331748  50048 S   2.0   4.1   1:15.35 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 324940  50048 S   1.7   4.0   1:37.85 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m    622 root      20   0 1798832  47476  31104 S   0.3   0.6   0:01.95 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72292  42240 S   0.3   0.9   0:10.14 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110208  45312 S   0.0   1.4   0:22.93 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+[H(B[mtop - 00:04:37 up  2:19,  0 users,  load average: 0.53, 0.37, 0.24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  50 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  49 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.8 (B[m[39;49mus,(B[m[39;49m[1m  3.5 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 93.6 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1046.3 (B[m[39;49mfree,(B[m[39;49m[1m   2528.3 (B[m[39;49mused,(B[m[39;49m[1m   4355.0 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5018.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331748  50048 S   1.7   4.1   1:15.40 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110848  45312 S   0.7   1.4   0:22.95 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325012  50048 S   0.7   4.0   1:37.87 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m[1m 101304 codespa+  20   0   10892   3456   3072 R   0.3   0.0   0:00.04 top                                                                                                                                                                                                (B[m[39;49m[K
+
+
+
+
+(B[m    622 root      20   0 1798832  47476  31104 S   0.0   0.6   0:01.95 containerd                                                                                                                                                                                         (B[m[39;49m[K
+(B[m   1135 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1161 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1298 codespa+  20   0    2624   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72420  42240 S   0.0   0.9   0:10.14 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[H(B[mtop - 00:04:40 up  2:19,  0 users,  load average: 0.53, 0.37, 0.24(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  5.5 (B[m[39;49mus,(B[m[39;49m[1m  5.3 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 88.9 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.2 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7929.6 (B[m[39;49mtotal,(B[m[39;49m[1m   1046.3 (B[m[39;49mfree,(B[m[39;49m[1m   2528.2 (B[m[39;49mused,(B[m[39;49m[1m   4355.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   5018.8 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m  40120 codespa+  20   0   21.5g 331872  50048 S   2.7   4.1   1:15.48 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   9957 codespa+  20   0   21.5g 325480  50048 S   1.7   4.0   1:37.92 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1307 codespa+  20   0 1331608 110868  45312 S   0.3   1.4   0:22.96 node                                                                                                                                                                                               (B[m[39;49m[K
+(B[m   1766 codespa+  20   0 1386548  72676  42240 S   0.3   0.9   0:10.15 node                                                                                                                                                                                               (B[m[39;49m[K
+
+
+
+
+
+
+
+
+(B[m   2614 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   2640 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4941 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   4996 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5320 codespa+  20   0    2616   1280   1280 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   5372 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6313 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6374 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6753 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   6787 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9562 codespa+  20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K
+(B[m   9614 root      20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                                                                                                                                                                                                 (B[m[39;49m[K[?1l>[32;1H
+[?12l[?25h[K[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ htop
+[?1049h[22;0;0t[1;31r(B[m[4l[?7h[?1h=[?25l[39;49m[?1000h[39;49m(B[m[H[2J[2d  [36m1  [39m(B[0;1m[[90m[119X[2;126H0.0%[39m](B[m   [36mTasks: (B[0;1m[36m51(B[0m[36m, (B[0;1m[32m100(B[0m[32m thr[36m; (B[0;1m[32m2(B[0m[36m running[3;3H2  [39m(B[0;1m[(B[0m[31m|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||100.0%[39m(B[0;1m](B[m   [36mLoad average: [39m(B[0;1m0.32 [36m0.33 (B[0m[36m0.24 [4;3HMem[39m(B[0;1m[(B[0m[32m|||||||||||||||||||||||||||||||||||||||||[34m|||[33m|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||(B[0;1m[90m   2.54G/7.74G[39m](B[m   [36mUptime: (B[0;1m[36m02:19:35[5;3H(B[0m[36mSwp[39m(B[0;1m[[90m[118X[5;125H0K/0K[39m][7d(B[0m[30m[42m    PID USER      PRI  NI  VIRT   RES   SHR S [30m[46mCPU% [30m[42mMEM%   TIME+  Command[K[8d[30m[46m 102481 codespace  20   0  8664  3968  2944 R 100.  0.0  0:00.01 htop[K[9;7H[39;49m(B[m1 codespace  20   0 [36m 1[39m(B[m136   640   640 S  0.0  0.0  0:00.21 /sbin/docker-init -- /bin/sh -c echo Container started trap "exit 0" 15 /usr/local/share/ssh-init.sh /usr/local/share/docker-init.sh exec "$@" while sleep 1 & wait $!; do :; done - /usr/local/share/doc[10;7H7 codespace  20   0 [36m 7[39m(B[m236 [36m 1[39m(B[m792 [36m 1[39m(B[m792 S  0.0  0.0  0:00.01 sleep infinity[11;6H22 (B[0;1m[90mroot      [39m(B[m 20   0 [36m12[39m(B[m196 [36m 3[39m(B[m356 [36m 2[39m(B[m432 S  0.0  0.0  0:00.00 sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups[12;5H617 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.11 [32mdockerd --dns 168.63.129.16[13;5H[39m(B[m618 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.00 [32mdockerd --dns 168.63.129.16[14;5H[39m(B[m619 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.00 [32mdockerd --dns 168.63.129.16[15;5H[39m(B[m620 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.00 [32mdockerd --dns 168.63.129.16[16;5H[39m(B[m621 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.00 [32mdockerd --dns 168.63.129.16[17;5H[39m(B[m644 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.19 [32mdockerd --dns 168.63.129.16[18;5H[39m(B[m645 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.22 [32mdockerd --dns 168.63.129.16[19;5H[39m(B[m646 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.12 [32mdockerd --dns 168.63.129.16[20;5H[39m(B[m648 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.21 [32mdockerd --dns 168.63.129.16[21;5H[39m(B[m615 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1936M 83[39m(B[m940 [36m52[39m(B[m224 S  0.0  1.0  0:00.97 dockerd --dns 168.63.129.16[22;5H623 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.62 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[23;5H[39m(B[m624 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.00 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[24;5H[39m(B[m625 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.38 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[25;5H[39m(B[m626 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.00 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[26;5H[39m(B[m627 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.43 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[27;5H[39m(B[m628 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.20 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[28;3H[39m(B[m54819 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:00.27 [32mcontainerd --config /var/run/docker/containerd/containerd.toml[29;5H[39m(B[m622 (B[0;1m[90mroot      [39m(B[m 20   0 [36m1756M 47[39m(B[m476 [36m31[39m(B[m104 S  0.0  0.6  0:01.95 containerd --config /var/run/docker/containerd/containerd.toml[30;4H1135 codespace  20   0 [36m 2[39m(B[m616 [36m 1[39m(B[m536 [36m 1[39m(B[m536 S  0.0  0.0  0:00.00 /bin/sh[31dF1[30m[46mHelp  [39;49m(B[mF2[30m[46mSetup [39;49m(B[mF3[30m[46mSearch[39;49m(B[mF4[30m[46mFilter[39;49m(B[mF5[30m[46mTree  [39;49m(B[mF6[30m[46mSortBy[39;49m(B[mF7[30m[46mNice -[39;49m(B[mF8[30m[46mNice +[39;49m(B[mF9[30m[46mKill  [39;49m(B[mF10[30m[46mQuit[K[H[39;49m(B[m[9;30r[9;1H[6T[1;31r[2;7H[32m|||||||[31m|||||||||[2;125H(B[0;1m[90m12.1[2;142H[36m3(B[0m[36m, (B[0;1m[32m95(B[0m[32m thr[36m; (B[0;1m[32m1[39m(B[m[1P[3;7H[32m|||||[19G(B[0;1m[90m[107X[3;126H9.4%[4;149H[36m6[8;2H(B[0m[30m[46m 40120[8;27H21.5G  323M 50048 S  2.7  4.1  1:15.89 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[9;4H[39;49m(B[m9957 codespace  20   0 (B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048 S  1.3  4.0  1:38.26 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[10;4H1766 codespace  20   0 [36m1354M 72[39m(B[m872 [36m42[39m(B[m240 S  0.7  0.9  0:10.19 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=ptyHost --logsPath /home/codespace/.vscode-r[11;4H9947 codespace  20   0 [36m1211M 53[39m(B[m772 [36m41[39m(B[m344 S  0.7  0.7  0:00.36 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=fileWatcher[12;4H[39m(B[m9965 codespace  20   0 (B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048 S  0.7  4.0  0:02.18 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[13;3H[39m(B[m40135 codespace  20   0 (B[0;1m[31m21.5G (B[0m[36m 323M 50[39m(B[m048 S  0.7  4.1  0:03.86 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[14;2H[39m(B[m102481 codespace  20   0 [36m 8[39m(B[m664 [36m 3[39m(B[m968 [36m 2[39m(B[m944 [32mR [39m(B[m 0.0  0.0  0:00.01 htop[H[11;30r[11;1H[4T[1;31r[2;14H[32m|||[23G[31m|[2;126H(B[0;1m[90m3.5[2;142H[36m0[3;12H(B[0m[32m||[31m|||||||||||[3;125H(B[0;1m[90m14.1[3;151H[39m0[3;161H(B[0m[36m3[4;122H(B[0;1m[90m3[4;149H[36m8[8;36H(B[0m[30m[46m4[8;48H4.0[8;63H95[9;4H[39;49m(B[m1769[9;27H[36m1354M 72[39m(B[m476 [36m42[39m(B[m240[9;53H0.9  0:00.18 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=ptyHost --logsPath /home/codespace/.vscode-r[10;4H[39m(B[m9957[10;27H(B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048[10;53H4.0  1:38.27[10;134H--dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[11;4H1766 codespace  20   0 [36m1354M 72[39m(B[m476 [36m42[39m(B[m240 S  0.7  0.9  0:10.20 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=ptyHost --logsPath /home/codespace/.vscode-r[12;2H102481 codespace  20   0 [36m 8[39m(B[m664 [36m 3[39m(B[m968 [36m 2[39m(B[m944 [32mR [39m(B[m 0.7  0.0  0:00.02 htop[13;4H1307 codespace  20   0 [36m1300M  107M 45[39m(B[m312 S  0.7  1.4  0:23.01 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/server-main.js --log trace --force-disable-user-env --server-data-[14;4H9967 codespace  20   0 (B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048 S  0.7  4.0  0:04.96 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[15;6H[39m(B[m70[15;27H(B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048[15;53H4.0  0:04.9[15;134H[32m--dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[16;6H[39m(B[m47[16;27H[36m1211M 53[39m(B[m772 [36m41[39m(B[m344[50G0  0.7  0:00.36[16;134H[32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=fileWatcher[39m(B[m[K[17;3H 996[17;35H[36m17[17;50H[39m(B[m0  4.0  0:02.18[18d  40135[18;27H(B[0;1m[31m21.5G (B[0m[36m 324M 50[39m(B[m048 S [53G4.1  0:03.86 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[1;1H[39m(B[m[2;11H[31m|||||(B[0;1m[90m        [2;125H 6.0[3;12H(B[0m[31m||||(B[0;1m[90m         [3;125H 6.7[4;149H[36m9[8;48H(B[0m[30m[46m1.3[8;64H7[9;4H[39;49m(B[m9957[9;27H(B[0;1m[31m21.5G (B[0m[36m 317M 50[39m(B[m048 S  0.7  4.0  1:38.28 /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node --dns-result-order=ipv4first /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=extensionHost -[10;4H1766[10;27H[36m1354M 72[39m(B[m476 [36m42[39m(B[m240[10;53H0.9  0:10.21[10;134H/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=ptyHost --logsPath /home/codespace/.vscode-r[11;7H9[11;50H0[11;60H00.18 [32m/vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node /vscode/bin/linux-x64/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/bootstrap-fork --type=ptyHost --logsPath /home/codespace/.vscode-r[12;34H[36m4[39m(B[m096[12;50H0  0.1[13;50H0[14d0[15d0[H[2;11H[32m||[31m|||||||||[2;125H(B[0;1m[90m11.5[3;16H(B[0m[31m||||||[3;125H(B[0;1m[90m11.9[4;122H4[4;148H[36m41[8;3H(B[0m[30m[46m 9957[8;35H17[8;55H0  1:38.30[9;3H[39;49m(B[m40120[9;35H[36m24[9;50H[39m(B[m0  4.1  1:15.97[10;35H732[10;50H0[11;35H732[H[31d[J[?12l[?25h[?1000l[31;1H[?1049l[23;0;0t[?1l>[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ 
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ echo[K[K[K[Kdate
+Sat Jul 20 00:07:07 UTC 2024
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ echo Hello [K, From General Atomics [K!
+Hello, From General Atomics!
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/lab04/configs [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2024-07-20 00:07:45+00:00 [COMMAND_EXIT_CODE="0"]
