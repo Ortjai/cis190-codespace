@@ -311,10 +311,8 @@ NOTE:  Pressing just the motion while in Normal mode without an operator will
   3. Now move to the fourth line.
   4. Type   2dd   to delete two lines.
 
---->  1)  Roses are red,
 --->  3)  Violets are blue,
 --->  6)  Sugar is sweet
---->  7)  And so are you.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -934,7 +932,6 @@ NOTE:  Completion works for many commands.  Just try pressing CTRL-D and
 
   6. When typing a  :  command, press CTRL-D to see possible completions.
      Press <TAB> to use one completion.
-
 
 
 
