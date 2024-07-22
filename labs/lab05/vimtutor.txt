@@ -200,7 +200,7 @@ Now continue with lesson 2.
 	it.  Vim is waiting for you to type  w .  If you see another character
 	than  d  you typed something wrong; press  <ESC>  and start over.
 
----> There are a some words fun that don't belong paper in this sentence.
+---> There are a some words that don't belong paper in this sentence.
 
   5. Repeat steps 3 and 4 until the sentence is correct and go to lesson 2.2.
 
