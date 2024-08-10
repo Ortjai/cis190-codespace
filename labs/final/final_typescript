@@ -1,0 +1,831 @@
+Script started on 2024-08-10 07:49:54+00:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="237" LINES="26"]
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ `cd labs/[5Ppwdcd ..[1Pundomv logs final[8Pcd ..mv logs final[3@-v [C[C[C[C[C[C[C[C[C[C[8Pcd logs/final/data/aircraft/configs/[15Pmv -v logs finalcd ..[Kmv -v logs final[7Pcd final/mv logs final[8Pcd ..mv logs final/[Kdata aircraft configs[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/aircraft/configs/[1Pdata/aircraft/configs/[K[8Pcd ..[K[K[K[K[Kw[Kwget https://boss.vvc.edu/tonning/classes/cis190/resources/final_configs.tgz
+--2024-08-10 07:50:19--  https://boss.vvc.edu/tonning/classes/cis190/resources/final_configs.tgz
+Resolving boss.vvc.edu (boss.vvc.edu)... 207.233.102.33
+Connecting to boss.vvc.edu (boss.vvc.edu)|207.233.102.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12435 (12K) [application/octet-stream]
+Saving to: ‘final_configs.tgz’
+
+final_configs.tgz                                             0%[                                                                                                                                         ]       0  --.-KB/s               final_configs.tgz                                           100%[========================================================================================================================================>]  12.14K  --.-KB/s    in 0.01s   
+
+2024-08-10 07:50:20 (1.01 MB/s) - ‘final_configs.tgz’ saved [12435/12435]
+
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ wget https://boss.vvc.edu/tonning/classes/cis190/resources/final_configs.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C`[Kcd labs/`[Kcd labs/[5Ppwdcd ..[1Pundomv logs final[8Pcd ..mv logs final[8Pcd ..mv logs final[3@-v [C[C[C[C[C[C[C[C[C[C[8Pcd logs/final/data/aircraft/configs/[15Pmv -v logs finalcd ..[Kmv -v logs final[7Pcd final/mv logs final[8Pcd ..mv logs final/[Kdata aircraft configsfinal[K/[K[8Pcd ..mv logs final[4Pcd final/mv -v logs finalcd ..[Kmv -v logs finalcd final/data/aircraft/configs/logs/[Kmv -v logs final[3P[C[C[C[C[C[C[C[C[C[C[8Pcd ..mv logs finalundo[Kcd ..[2Ppwdcd labs/`[Kwget https://boss.vvc.edu/tonning/classes/cis190/resources/final_configs.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kwget https://boss.vvc.edu/tonning/classes/cis190/resources/final_configs.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C`[Kcd labs/[5Ppwdcd ..[1Pundomv logs final[8Pcd ..mv logs final[3@-v [C[C[C[C[C[C[C[C[C[C[8Pcd logs/final/data/aircraft/configs/[15Pmv -v logs finalcd ..[Kmv -v logs final[7Pcd final/mv logs final[8Pcd ..mv logs final/[Kdata aircraft configs[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/aircraft/configs/[1Pdata/aircraft/configs/[K[8Pcd ..mv logs aircraftcd ..[K[1P..mv logs data/dataconfigscd ..[Kmv logs /configscd..[K ..mv logs /dataconfigs[8Pcd logs/data/aircraft/configs/[15Pmkdir logs[5Pcd ..mkdir labscd configs/[1Pmkdir labscd data/aircraft/[8Pfinal/mv --help[2Phelp[1Pmanlogs `/data/aircraft[10P/data[8Pcd ..mv logs data/aircraft[5Pcd configs/logs/mv logs configs/cd data/aircraft/mv logs data/aircraft/configs/[Kscript final_typescript[9Pcd labs/final/[1Pvim tutor.txt[1Ptutor.txt[7Pcd ..vimtutor.txt[7Pclearvim tutor.txttutor.txt/[K[1Pcd vimtutorvimtutor.txt[4Pvimtutor.txt[4Ptutor labs/lab05[Kcd vimtutor.txt/[3Pvimtutor.txt/[K[K.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ tar -xvf final_configs.tgz
+configs/
+configs/n112op/
+configs/n112op/config_3.ini
+configs/n112op/config_5.ini
+configs/n112op/config_1.ini
+configs/n112op/config_2.ini
+configs/n112op/config_4.ini
+configs/n890mn/
+configs/n890mn/config_3.ini
+configs/n890mn/config_5.ini
+configs/n890mn/config_1.ini
+configs/n890mn/config_2.ini
+configs/n890mn/config_4.ini
+configs/n101gh/
+configs/n101gh/config_3.ini
+configs/n101gh/config_5.ini
+configs/n101gh/config_1.ini
+configs/n101gh/config_1a.ini
+configs/n101gh/config_2.ini
+configs/n101gh/config_4.ini
+configs/n678st/
+configs/n678st/config_3.ini
+configs/n678st/config_5.ini
+configs/n678st/config_1.ini
+configs/n678st/config_2.ini
+configs/n678st/config_4.ini
+configs/n567kl/
+configs/n567kl/config_3.ini
+configs/n567kl/config_5.ini
+configs/n567kl/config_1.ini
+configs/n567kl/config_2.ini
+configs/n567kl/config_4.ini
+configs/tailnumbers.txt
+configs/n789ef/
+configs/n789ef/config_3.ini
+configs/n789ef/config_5.ini
+configs/n789ef/config_1.ini
+configs/n789ef/config_2.ini
+configs/n789ef/config_4.ini
+configs/n456cd/
+configs/n456cd/config_3.ini
+configs/n456cd/config_5.ini
+configs/n456cd/config_1.ini
+configs/n456cd/config_2.ini
+configs/n456cd/config_4.ini
+configs/n123ab/
+configs/n123ab/config_3.ini
+configs/n123ab/config_5.ini
+configs/n123ab/config_1.ini
+configs/n123ab/config_2.ini
+configs/n123ab/config_4.ini
+configs/n234ij/
+configs/n234ij/config_3.ini
+configs/n234ij/config_5.ini
+configs/n234ij/config_1.ini
+configs/n234ij/config_2.ini
+configs/n234ij/config_4.ini
+configs/n223wx/
+configs/n223wx/config_3.ini
+configs/n223wx/config_5.ini
+configs/n223wx/config_1.ini
+configs/n223wx/config_2.ini
+configs/n223wx/config_4.ini
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mkdir data [K/aircraft
+mkdir: cannot create directory ‘data/aircraft’: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mkdir data
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data[K[K[K[K[K[K[Kcd data/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ mkf[Kdir [K aircraft
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd con[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ mv data[K[K[K[Kconfigs d[K/[Kdata [K/aaa[K[Kirv[Kcraft
+mv: cannot stat 'configs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv xcon[K[K[K[Kconfoi[K[Kigs d[K[K[K[K[K[K[K[K[K[K[K[Kcd [K[K[Kmv confg[Kigs data aircraft
+mv: target 'aircraft' is not a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv [K[K[Kc[Kcd c[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ mv ccd configs/..[Kmv configs data aircraft[7Pcd data/aircraft/mv configs data aircraft
+mv: target 'aircraft' is not a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ cd vc[K[Kconrf[K[Kfigs n[Kn[K/[Kd[Kdata[K[K[K[K/data [K [K.[K/airvrta[K[K[K[Kcraft[1P[1P[1@m[1@v
+mv: cannot stat 'configs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ mv v[Kconfoi[K[Kigs aircraft
+mv: cannot stat 'configs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv confogs [K[K[K[Kigs [K[Ks data/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 25000/' /data/aircraft/configs/n101gh/*.ini[1P/*.ini[1P/*.ini[1P/*.ini[1P/*.ini[1P/*.ini[1P/*.ini[Cs/*.ini[1P/*.inin/*.ini1/*.ini2/*.ini3/*.inia/*.inib/*.ini[C[1P[1P[1P[1P[1P[1@3[1@0[1@0[1@0[1@0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ n[Kcdn12[K[K[K n123ab/
+[0;32m@Ortjai [0m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ cd n123ab/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[1P/data/aircraft/configs/n123ab/*.ini
+sed: -e expression #1, char 45: unknown option to `s'
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/'/data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd data/aircraft/configs/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[1P/data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/'/data/aircraft/configs/n123ab/*.ini /data/aircraft/configs/n123ab/*.ini[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kvi con[K[K[Kconb[K[K[K[Kconfig_1.ini
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;26r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[26;1H"config_1.ini" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                                                                                                                                                          [3;1H~                                                                                                                                                                                                                                                                          [4;1H~                                                                                                                                                                                                                                                                          [5;1H~                                                                                                                                                                                                                                                                          [6;1H~                                                                                                                                                                                                                                                                          [7;1H~                                                                                                                                                                                                                                                                          [8;1H~                                                                                                                                                                                                                                                                          [9;1H~                                                                                                                                                                                                                                                                          [10;1H~                                                                                                                                                                                                                                                                          [11;1H~                                                                                                                                                                                                                                                                          [12;1H~                                                                                                                                                                                                                                                                          [13;1H~                                                                                                                                                                                                                                                                          [14;1H~                                                                                                                                                                                                                                                                          [15;1H~                                                                                                                                                                                                                                                                          [16;1H~                                                                                                                                                                                                                                                                          [17;1H~                                                                                                                                                                                                                                                                          [18;1H~                                                                                                                                                                                                                                                                          [19;1H~                                                                                                                                                                                                                                                                          [20;1H~                                                                                                                                                                                                                                                                          [21;1H~                                                                                                                                                                                                                                                                          [22;1H~                                                                                                                                                                                                                                                                          [23;1H~                                                                                                                                                                                                                                                                          [24;1H~                                                                                                                                                                                                                                                                          [25;1H~                                                                                                                                                                                                                                                                          [m[26;250H0,0-1[9CAll[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[?25l[26;240H/[1;1H[26;241He[1;1H[26;242Hd[1;1H[26;243He[1;1H[26;244Hd[1;1H[26;245H/[1;1H[26;246Hf[1;1H[26;247H3[1;1H[26;248Hf[1;1H[26;249H3[1;1H[26;240H          [1;1H[?25h[?25l[26;240H/[1;1H[26;241H0[1;1H[26;242H4[1;1H[26;243H0[1;1H[26;244H4[1;1H[26;245H/[1;1H[26;246H0[1;1H[26;247H9[1;1H[26;248H0[1;1H[26;249H9[1;1H[26;240H          [1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                                                                                                                                                          [3;1H~                                                                                                                                                                                                                                                                          [4;1H~                                                                                                                                                                                                                                                                          [5;1H~                                                                                                                                                                                                                                                                          [6;1H~                                                                                                                                                                                                                                                                          [7;1H~                                                                                                                                                                                                                                                                          [8;1H~                                                                                                                                                                                                                                                                          [9;1H~                                                                                                                                                                                                                                                                          [10;1H~                                                                                                                                                                                                                                                                          [11;1H~                                                                                                                                                                                                                                                                          [12;1H~                                                                                                                                                                                                                                                                          [13;1H~                                                                                                                                                                                                                                                                          [14;1H~                                                                                                                                                                                                                                                                          [15;1H~                                                                                                                                                                                                                                                                          [16;1H~                                                                                                                                                                                                                                                                          [17;1H~                                                                                                                                                                                                                                                                          [18;1H~                                                                                                                                                                                                                                                                          [19;1H~                                                                                                                                                                                                                                                                          [20;1H~                                                                                                                                                                                                                                                                          [21;1H~                                                                                                                                                                                                                                                                          [22;1H~                                                                                                                                                                                                                                                                          [23;1H~                                                                                                                                                                                                                                                                          [24;1H~                                                                                                                                                                                                                                                                          [25;1H~                                                                                                                                                                                                                                                                          [m[26;250H0,0-1[9CAll"config_1.ini" [New File][1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H~@k[1;1H[26;240H   [1;1H[?25h[?25l[26;240H^[[1;1H[26;240H  [1;1H[26;240H^[[1;1H[26;240H  [1;1H[?25h[?25l[26;240H^[[1;1H[26;240H  [1;1H[26;240H^[[1;1H[26;240H  [1;1H[?25h[?25l[26;240H^[[1;1H[26;240H  [1;1H[26;240H^[[1;1H[26;240H  [1;1H[?25h[?25l[26;240H:[1;1H[26;1H[K[26;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[26;1H[K[26;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ vi config_1.ini[Kcd data/aircraft/configs/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd n[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi config_1.ini[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd final/
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/configs/final/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd n123ab/
+[0;32m@Ortjai [0m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ cd n123ab/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1P123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini
+sed: can't read /n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /n123ab/*.ini[C[1Pn123ab/*.ini
+sed: can't read n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' n123ab/*.ini/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd n123ab/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/configs/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[1Pdata/aircraft/configs/n123ab/*.ini
+sed: can't read data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../data/aircraft/configs/n123ab [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' data/aircraft/configs/n123ab/*.inicd [K[1P/data/aircraft/configs/n123ab/*.ini[23Pn123ab/*.ini/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd n123ab/[K[K[K[K[K[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' data/aircraft/configs/n123ab/*.inicd[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd ..sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs [0;36m([1;31mmain[0;36m) [0m$ cd final/
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/[8Pfinal/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Ponfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini
+sed: can't read /configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 10000/max_altitude = 30000/' /configs/n123ab/*.ini[1P[1P[1P[1P[1P[1@3[1@0[1@0[1@0[1@0
+sed: can't read /configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ sed -i 's/max_altitude = 30000/max_altitude = 30000/' /configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/[K[8Pfinal/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[1P[1P[1P
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ sed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11P-i 's/max_altitude = 30000/max_altitude = 30000/' /configs/n123ab/*.ini1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/[K[8Pfinal/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd configs/sed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd configs/[Ksed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ sed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1P123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini[1Pn123ab/*.ini
+sed: can't read /n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ sed 's/max_altitude = 10000/max_altitude = 30000/' /n123ab/*.ini[1Pn123ab/*.ini
+[mission]
+mission_id = MISS-8692
+objective = Mapping
+start_time = 20:15
+duration_minutes = 360
+
+[drone]
+tail_number = n123ab
+max_altitude = 30000
+max_speed = 300
+payload_capacity = 625
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = False
+lidar = True
+
+[communication]
+frequency = 5.77
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n123ab-MISS-8692.log
+
+[waypoints]
+waypoint_1 = -7.94085, 71.927998, 418
+waypoint_2 = -25.047837, -64.252971, 1038
+waypoint_3 = 19.013184, -96.396127, 1269
+waypoint_4 = 3.231508, -177.37585, 108
+waypoint_5 = -54.309493, -88.692402, 855
+waypoint_6 = 44.736732, 173.595894, 363
+waypoint_7 = -37.46829, -70.535238, 114
+waypoint_8 = 34.357269, 176.244412, 1701
+waypoint_9 = -68.980644, -162.020635, 1500
+waypoint_10 = -66.547623, -139.624019, 1760
+
+[mission]
+mission_id = MISS-4879
+objective = Engagement
+start_time = 02:45
+duration_minutes = 90
+
+[drone]
+tail_number = n123ab
+max_altitude = 50000
+max_speed = 250
+payload_capacity = 600
+
+[camera]
+resolution = 1080p
+frame_rate = 24
+infrared = True
+lidar = True
+
+[communication]
+frequency = 2.9
+encryption = None
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-4879.log
+
+[waypoints]
+waypoint_1 = 23.695311, 8.488492, 1162
+waypoint_2 = -22.370626, 2.288185, 1719
+waypoint_3 = -60.876411, -16.316544, 628
+waypoint_4 = -73.466589, 120.994067, 879
+waypoint_5 = 76.749445, 113.738315, 1912
+waypoint_6 = -39.829873, 33.826342, 1586
+waypoint_7 = 62.622789, 42.665519, 1879
+waypoint_8 = -64.629633, 84.920533, 1069
+waypoint_9 = 9.453238, -145.110354, 211
+waypoint_10 = 81.20267, 139.251564, 1161
+
+[mission]
+mission_id = MISS-4901
+objective = Delivery
+start_time = 17:30
+duration_minutes = 120
+
+[drone]
+tail_number = n123ab
+max_altitude = 35000
+max_speed = 250
+payload_capacity = 700
+
+[camera]
+resolution = 1080p
+frame_rate = 24
+infrared = True
+lidar = False
+
+[communication]
+frequency = 5.18
+encryption = AES-256
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n123ab-MISS-4901.log
+
+[waypoints]
+waypoint_1 = -34.760137, 1.853969, 244
+waypoint_2 = 15.502031, 93.221997, 1813
+waypoint_3 = 42.621715, 7.335771, 1396
+waypoint_4 = 71.632636, -101.032309, 1479
+waypoint_5 = 85.553904, 81.119861, 620
+waypoint_6 = -47.409775, -115.736535, 996
+waypoint_7 = 44.387758, 74.291912, 1724
+waypoint_8 = -84.916736, -71.129553, 1045
+waypoint_9 = 84.638587, 154.381035, 1688
+waypoint_10 = 55.323739, -160.917301, 1267
+
+[mission]
+mission_id = MISS-2856
+objective = Mapping
+start_time = 22:30
+duration_minutes = 90
+
+[drone]
+tail_number = n123ab
+max_altitude = 35000
+max_speed = 250
+payload_capacity = 475
+
+[camera]
+resolution = 4K
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 4.88
+encryption = AES-256
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-2856.log
+
+[waypoints]
+waypoint_1 = 77.088781, 94.131458, 157
+waypoint_2 = -75.532994, -102.046755, 1917
+waypoint_3 = -44.476098, -77.716091, 810
+waypoint_4 = 47.649224, -121.459297, 739
+waypoint_5 = 64.736373, 0.133086, 1205
+waypoint_6 = -71.085248, -42.863777, 1704
+waypoint_7 = 48.426382, 151.583432, 691
+waypoint_8 = 61.817694, -153.150876, 1286
+waypoint_9 = -56.154916, -142.908445, 731
+waypoint_10 = -38.809603, -7.321311, 708
+
+[mission]
+mission_id = MISS-8637
+objective = Engagement
+start_time = 06:00
+duration_minutes = 180
+
+[drone]
+tail_number = n123ab
+max_altitude = 15000
+max_speed = 300
+payload_capacity = 625
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = True
+lidar = False
+
+[communication]
+frequency = 4.71
+encryption = None
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-8637.log
+
+[waypoints]
+waypoint_1 = -87.99274, 104.162158, 1668
+waypoint_2 = -13.311878, -84.779037, 1958
+waypoint_3 = 60.95737, 161.862808, 1269
+waypoint_4 = 4.586076, 146.240605, 1213
+waypoint_5 = 89.286738, 166.835195, 596
+waypoint_6 = 59.733724, -37.324704, 1136
+waypoint_7 = -72.777202, -150.320335, 819
+waypoint_8 = -84.909701, 166.335245, 362
+waypoint_9 = -3.985176, -132.105555, 813
+waypoint_10 = 68.599431, 53.540754, 473
+
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ sed 's/max_altitude = 10000/max_altitude = 30000/' n123ab/*.ini/n123ab/*.inidata/aircraft/configs/n123ab/*.ini
+sed: can't read /data/aircraft/configs/n123ab/*.ini: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..sed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Ponfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini[1Pconfigs/n123ab/*.ini
+[mission]
+mission_id = MISS-8692
+objective = Mapping
+start_time = 20:15
+duration_minutes = 360
+
+[drone]
+tail_number = n123ab
+max_altitude = 30000
+max_speed = 300
+payload_capacity = 625
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = False
+lidar = True
+
+[communication]
+frequency = 5.77
+encryption = AES-128
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n123ab-MISS-8692.log
+
+[waypoints]
+waypoint_1 = -7.94085, 71.927998, 418
+waypoint_2 = -25.047837, -64.252971, 1038
+waypoint_3 = 19.013184, -96.396127, 1269
+waypoint_4 = 3.231508, -177.37585, 108
+waypoint_5 = -54.309493, -88.692402, 855
+waypoint_6 = 44.736732, 173.595894, 363
+waypoint_7 = -37.46829, -70.535238, 114
+waypoint_8 = 34.357269, 176.244412, 1701
+waypoint_9 = -68.980644, -162.020635, 1500
+waypoint_10 = -66.547623, -139.624019, 1760
+
+[mission]
+mission_id = MISS-4879
+objective = Engagement
+start_time = 02:45
+duration_minutes = 90
+
+[drone]
+tail_number = n123ab
+max_altitude = 50000
+max_speed = 250
+payload_capacity = 600
+
+[camera]
+resolution = 1080p
+frame_rate = 24
+infrared = True
+lidar = True
+
+[communication]
+frequency = 2.9
+encryption = None
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-4879.log
+
+[waypoints]
+waypoint_1 = 23.695311, 8.488492, 1162
+waypoint_2 = -22.370626, 2.288185, 1719
+waypoint_3 = -60.876411, -16.316544, 628
+waypoint_4 = -73.466589, 120.994067, 879
+waypoint_5 = 76.749445, 113.738315, 1912
+waypoint_6 = -39.829873, 33.826342, 1586
+waypoint_7 = 62.622789, 42.665519, 1879
+waypoint_8 = -64.629633, 84.920533, 1069
+waypoint_9 = 9.453238, -145.110354, 211
+waypoint_10 = 81.20267, 139.251564, 1161
+
+[mission]
+mission_id = MISS-4901
+objective = Delivery
+start_time = 17:30
+duration_minutes = 120
+
+[drone]
+tail_number = n123ab
+max_altitude = 35000
+max_speed = 250
+payload_capacity = 700
+
+[camera]
+resolution = 1080p
+frame_rate = 24
+infrared = True
+lidar = False
+
+[communication]
+frequency = 5.18
+encryption = AES-256
+
+[logging]
+log_level = ERROR
+log_file = /data/logs/n123ab-MISS-4901.log
+
+[waypoints]
+waypoint_1 = -34.760137, 1.853969, 244
+waypoint_2 = 15.502031, 93.221997, 1813
+waypoint_3 = 42.621715, 7.335771, 1396
+waypoint_4 = 71.632636, -101.032309, 1479
+waypoint_5 = 85.553904, 81.119861, 620
+waypoint_6 = -47.409775, -115.736535, 996
+waypoint_7 = 44.387758, 74.291912, 1724
+waypoint_8 = -84.916736, -71.129553, 1045
+waypoint_9 = 84.638587, 154.381035, 1688
+waypoint_10 = 55.323739, -160.917301, 1267
+
+[mission]
+mission_id = MISS-2856
+objective = Mapping
+start_time = 22:30
+duration_minutes = 90
+
+[drone]
+tail_number = n123ab
+max_altitude = 35000
+max_speed = 250
+payload_capacity = 475
+
+[camera]
+resolution = 4K
+frame_rate = 30
+infrared = True
+lidar = True
+
+[communication]
+frequency = 4.88
+encryption = AES-256
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-2856.log
+
+[waypoints]
+waypoint_1 = 77.088781, 94.131458, 157
+waypoint_2 = -75.532994, -102.046755, 1917
+waypoint_3 = -44.476098, -77.716091, 810
+waypoint_4 = 47.649224, -121.459297, 739
+waypoint_5 = 64.736373, 0.133086, 1205
+waypoint_6 = -71.085248, -42.863777, 1704
+waypoint_7 = 48.426382, 151.583432, 691
+waypoint_8 = 61.817694, -153.150876, 1286
+waypoint_9 = -56.154916, -142.908445, 731
+waypoint_10 = -38.809603, -7.321311, 708
+
+[mission]
+mission_id = MISS-8637
+objective = Engagement
+start_time = 06:00
+duration_minutes = 180
+
+[drone]
+tail_number = n123ab
+max_altitude = 15000
+max_speed = 300
+payload_capacity = 625
+
+[camera]
+resolution = 720p
+frame_rate = 30
+infrared = True
+lidar = False
+
+[communication]
+frequency = 4.71
+encryption = None
+
+[logging]
+log_level = DEBUG
+log_file = /data/logs/n123ab-MISS-8637.log
+
+[waypoints]
+waypoint_1 = -87.99274, 104.162158, 1668
+waypoint_2 = -13.311878, -84.779037, 1958
+waypoint_3 = 60.95737, 161.862808, 1269
+waypoint_4 = 4.586076, 146.240605, 1213
+waypoint_5 = 89.286738, 166.835195, 596
+waypoint_6 = 59.733724, -37.324704, 1136
+waypoint_7 = -72.777202, -150.320335, 819
+waypoint_8 = -84.909701, 166.335245, 362
+waypoint_9 = -3.985176, -132.105555, 813
+waypoint_10 = 68.599431, 53.540754, 473
+
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ wget https://boss.vvc.edu/tonning/classes/cis190/resources/final_logs.tgz
+--2024-08-10 08:24:03--  https://boss.vvc.edu/tonning/classes/cis190/resources/final_logs.tgz
+Resolving boss.vvc.edu (boss.vvc.edu)... 207.233.102.33
+Connecting to boss.vvc.edu (boss.vvc.edu)|207.233.102.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10561 (10K) [application/octet-stream]
+Saving to: ‘final_logs.tgz’
+
+final_logs.tgz                                                       0%[                                                                                                                                                                ]       0  --.-KB/s               final_logs.tgz                                                     100%[===============================================================================================================================================================>]  10.31K  --.-KB/s    in 0s      
+
+2024-08-10 08:24:03 (55.6 MB/s) - ‘final_logs.tgz’ saved [10561/10561]
+
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ wget https://boss.vvc.edu/tonning/classes/cis190/resources/final_logs.tgz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Psed 's/max_altitude = 10000/max_altitude = 30000/' configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[23Pn123ab/*.ini/n123ab/*.inidata/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd configs/[Ksed 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11P-i 's/max_altitude = 30000/max_altitude = 30000/' /configs/n123ab/*.ini1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/[K[8Pfinal/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[23Pn123ab/*.ini/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd n123ab/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/configs/[Kfinal/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi config_1.ini[K[Kcd data/aircraft/configs/sed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[1P/data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd n123ab/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd data/aircraft/configs/[Ksed -i 's/max_altitude = 10000/max_altitude = 30000/' /data/aircraft/configs/n123ab/*.ini[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv configs data/aircraft/[Kcd ..[Kmv configs aircraft/data/aircraft[1Pdata aircraft[13Pcd configs/..[Kmv configs data aircraft[7Pcd data/aircraft/..[Kmv configs data/aircraft[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kt
+tabs           tar            tbl            tclsh8.6       telinit        testsolv       time           times          toe            touch          tr             troff          ts             ttx            type           tzconfig       
+tac            tarcat         tc             tcltk-depends  tempfile       then           timedatectl    tipc           top            tput           trap           true           tset           tty            typeprof       tzselect       
+tail           taskset        tclsh          tee            test           tic            timeout        tload          torchrun       tqdm           tree           truncate       tsort          tune2fs        typeset        
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ ttae==[K[K[K[K[K[Ktar -xvf final_logs.tgz
+logs/
+logs/n101gh_telemetry.log
+logs/n123ab_telemetry.log
+logs/n567kl_telemetry.log
+logs/n112op_telemetry.log
+logs/n456cd_telemetry.log
+logs/n890mn_telemetry.log
+logs/n234ij_telemetry.log
+logs/n789ef_telemetry.log
+logs/n223wx_telemetry.log
+logs/n678st_telemetry.log
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mc[Kv logs data/aircraft/
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs data/aircraft/[K
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs data/aircraft/data/aircraft
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd[K[Kmv logs 
+data/              final_configs.tgz  final_typescript   
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs data/aircraft/
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd lo[K[K[K[K[Kcd data/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv [K[K[Kcd logs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ mv n[Klo[K[Klogs n[Kd[Kdata [K/aa[Kirvraft[K[K[K[K[Kcraft
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv logs data [K/aircv[K[Kcraft
+mv: cannot move 'logs' to 'data/aircraft': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..mv logs data/aircraft[K[K[K[K[K[K[K[K[K[K[K[K[Kdata/d[Kaircraft/
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cp mv logs data/aircraft/[C[1P[1P[1@c[1@p
+cp: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ pwd
+/workspaces/cis190-codespace/labs/final
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ pwdcp logs data/aircraft/mv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@-[1@r[1@ 
+mv: invalid option -- 'r'
+Try 'mv --help' for more information.
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd data/aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd logs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ mv logs n[Kdata/arict[Kraft
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ mv logs [K[K[K[K[K[K[K[Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ cd ..mv logs data/aricraft[13Pcd logs/mv logs data/aricraft
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv Logs data/aircraft/
+mv: cannot stat 'Logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv Logs data/aircraft//data/aircraft/
+mv: cannot stat 'Logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv Logs /data/aircraft/[1Pdata/aircraft/[1Plogs data/aricraft/data/aricraft
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ pwd
+/workspaces/cis190-codespace/labs/final
+[0;32m@Ortjai [0m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs[K[K[K[Kfinal_logs.tgz data/aircraft/
+mv: cannot stat 'final_logs.tgz': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs.tgz data/aircraft/
+mv: cannot stat 'logs.tgz': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m/workspaces/cis190-codespace/labs/final [0;36m([1;31mmain[0;36m) [0m$ mv logs aircrfat[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd data/
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ mv logs aircraft/
+mv: cannot stat 'logs': No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd lo[K[K[K[K[Kaa[K[Kcd aircraft/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd logs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep GPOS[K[KS>gps_summary.txt
+f [0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep GPS>gps_summary.txt >gps_summary.txt[C gps_summary.txt
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep -i GPSA[K > gps_summary.txt
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep gre[K[K[KGPS logs > gps_summary.txt
+grep: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep -i GPS .[K> gps_summary.txt
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep -1 [K[Ki "g[KGPS:[K:[K"[K[K[K[K[K"[K'GPS' > gps_summary.txt
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep -i 'GPS' > gps_summary.txt[C[1@ [1@l[1@o[1@g[1@s[C[1@ 
+grep: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd [K[K[Kcd ..grep -i 'GPS' logs  > gps_summary.txt
+grep: logs: Is a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ grep -i 'GPS' logs  > gps_summary.txt[1P[C[C[C[C[C[C[C[C
+grep: logs: Is a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd logs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ cd logs/grep -i 'GPS' logs > gps_summary.txt[C[1P[1P[1P[1P[C[1@ 
+grep: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep 'GPS' logs > gps_summary.txt[1P[1P[1P[1P[1P[C[1P[C[1@ 
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ grep 'GPS' > gps_summary.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/logs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd ..grep 'GPS'
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ grep -1[Ki GPS logs > gps_summary.txt
+grep: logs: Is a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv logs ../
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ mv logs ../grep -i GPS logs > gps_summary.txt'GPS'[K[5Pcd ..grep 'GPS' > gps_summary.txt[5@logs [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd logs/[Kgrep 'GPS' logs > gps_summary.txt[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5@logs [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+grep: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ tree
+[34;42m.[00m
+├── [01;34mconfigs[00m
+│   ├── [01;34mn101gh[00m
+│   │   ├── config_1.ini
+│   │   ├── config_1a.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn112op[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn123ab[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn223wx[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn234ij[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn456cd[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn567kl[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn678st[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn789ef[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   ├── [01;34mn890mn[00m
+│   │   ├── config_1.ini
+│   │   ├── config_2.ini
+│   │   ├── config_3.ini
+│   │   ├── config_4.ini
+│   │   └── config_5.ini
+│   └── tailnumbers.txt
+└── [01;31mfinal_logs.tgz[00m
+
+11 directories, 53 files
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd l[K[K[K[Kcd log[K[K[K[K[K[Kc[Kcd configs/n[Kl[K[K/la[K[K[K[Ks/logs
+bash: cd: configs/logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$ cd configs/
+[0;32m@Ortjai [0m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd la[K[K[K[K[Kcd logs
+bash: cd: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@Ortjai [1;31m➜ [1;34m.../final/data/aircraft/configs [0;36m([1;31mmain[0;36m) [0m$ cd ..
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/aircraft [0;36m([1;31mmain[0;36m) [0m$  [Kcd ..
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ tree
+[34;42m.[00m
+├── [34;42maircraft[00m
+│   ├── [01;34mconfigs[00m
+│   │   ├── [01;34mn101gh[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_1a.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn112op[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn123ab[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn223wx[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn234ij[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn456cd[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn567kl[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn678st[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn789ef[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   ├── [01;34mn890mn[00m
+│   │   │   ├── config_1.ini
+│   │   │   ├── config_2.ini
+│   │   │   ├── config_3.ini
+│   │   │   ├── config_4.ini
+│   │   │   └── config_5.ini
+│   │   └── tailnumbers.txt
+│   └── [01;31mfinal_logs.tgz[00m
+└── [01;34mlogs[00m
+    ├── gps_summary.txt
+    ├── n101gh_telemetry.log
+    ├── n112op_telemetry.log
+    ├── n123ab_telemetry.log
+    ├── n223wx_telemetry.log
+    ├── n234ij_telemetry.log
+    ├── n456cd_telemetry.log
+    ├── n567kl_telemetry.log
+    ├── n678st_telemetry.log
+    ├── n789ef_telemetry.log
+    └── n890mn_telemetry.log
+
+13 directories, 64 files
+[0;32m@Ortjai [0m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ treecd ..logsconfigs/logstree[Kgrep 'GPS' logs > gps_summary.txt[22Pmv logs ../grep 'GPS' logs > gps_summary.txt
+grep: logs: Is a directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ grep 'GPS' logs > gps_summary.txt[C[C[C[C[1P[1@t[1@e[C[1@l[1@e[1@m[1@e[1@t[1@r[1@y[1@.
+grep: telemetry.log: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../cis190-codespace/labs/final/data [0;36m([1;31mmain[0;36m) [0m$ cd logs/
+[0;32m@Ortjai [0m➜ [1;34m.../labs/final/data/logs [0;36m([1;31mmain[0;36m) [0m$ grep -i g[[Kps logs > gps_summary.txt
+grep: logs: No such file or directory
+[0;32m@Ortjai [1;31m➜ [1;34m.../labs/final/data/logs [0;36m([1;31mmain[0;36m) [0m$ grep [K[K[K[K[Kgrep -i gps logs > gps_summary.txt[C[1P[1P[1P[1@G[1@O[1@S[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@p[1@s[1P[1P[1@P[1@S[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+grep: logs: No such file or directory
+[0;3
