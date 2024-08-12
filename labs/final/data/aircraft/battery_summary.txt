@@ -1,0 +1,350 @@
+logs/n101gh_telemetry.log:[2024-06-26 14:33:10] BAT: 99.3 %
+logs/n101gh_telemetry.log:[2024-06-26 14:34:10] BAT: 98.4 %
+logs/n101gh_telemetry.log:[2024-06-26 14:35:10] BAT: 97.8 %
+logs/n101gh_telemetry.log:[2024-06-26 14:36:10] BAT: 96.9 %
+logs/n101gh_telemetry.log:[2024-06-26 14:37:10] BAT: 96.0 %
+logs/n101gh_telemetry.log:[2024-06-26 14:38:10] BAT: 95.3 %
+logs/n101gh_telemetry.log:[2024-06-26 14:39:10] BAT: 94.6 %
+logs/n101gh_telemetry.log:[2024-06-26 14:40:10] BAT: 93.9 %
+logs/n101gh_telemetry.log:[2024-06-26 14:41:10] BAT: 93.2 %
+logs/n101gh_telemetry.log:[2024-06-26 14:42:10] BAT: 92.5 %
+logs/n101gh_telemetry.log:[2024-06-26 14:43:10] BAT: 91.9 %
+logs/n101gh_telemetry.log:[2024-06-26 14:44:10] BAT: 91.0 %
+logs/n101gh_telemetry.log:[2024-06-26 14:45:10] BAT: 90.4 %
+logs/n101gh_telemetry.log:[2024-06-26 14:46:10] BAT: 89.8 %
+logs/n101gh_telemetry.log:[2024-06-26 14:47:10] BAT: 88.9 %
+logs/n101gh_telemetry.log:[2024-06-26 14:48:10] BAT: 88.1 %
+logs/n101gh_telemetry.log:[2024-06-26 14:49:10] BAT: 87.5 %
+logs/n101gh_telemetry.log:[2024-06-26 14:50:10] BAT: 86.6 %
+logs/n101gh_telemetry.log:[2024-06-26 14:51:10] BAT: 85.6 %
+logs/n101gh_telemetry.log:[2024-06-26 14:52:10] BAT: 85.1 %
+logs/n101gh_telemetry.log:[2024-06-26 14:53:10] BAT: 84.4 %
+logs/n101gh_telemetry.log:[2024-06-26 14:54:10] BAT: 83.7 %
+logs/n101gh_telemetry.log:[2024-06-26 14:55:10] BAT: 82.9 %
+logs/n101gh_telemetry.log:[2024-06-26 14:56:10] BAT: 82.1 %
+logs/n101gh_telemetry.log:[2024-06-26 14:57:10] BAT: 81.4 %
+logs/n101gh_telemetry.log:[2024-06-26 14:58:10] BAT: 80.6 %
+logs/n101gh_telemetry.log:[2024-06-26 14:59:10] BAT: 79.8 %
+logs/n101gh_telemetry.log:[2024-06-26 15:00:10] BAT: 78.9 %
+logs/n101gh_telemetry.log:[2024-06-26 15:01:10] BAT: 77.9 %
+logs/n101gh_telemetry.log:[2024-06-26 15:02:10] BAT: 77.3 %
+logs/n101gh_telemetry.log:[2024-06-26 15:03:10] BAT: 76.4%
+logs/n101gh_telemetry.log:[2024-06-26 15:04:10] BAT: 75.6%
+logs/n101gh_telemetry.log:[2024-06-26 15:05:10] BAT: 74.9%
+logs/n101gh_telemetry.log:[2024-06-26 15:06:10] BAT: 74.2%
+logs/n101gh_telemetry.log:[2024-06-26 15:07:10] BAT: 73.7%
+logs/n112op_telemetry.log:[2024-06-26 14:33:10] BAT: 99.5 %
+logs/n112op_telemetry.log:[2024-06-26 14:34:10] BAT: 98.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:35:10] BAT: 98.2 %
+logs/n112op_telemetry.log:[2024-06-26 14:36:10] BAT: 97.5 %
+logs/n112op_telemetry.log:[2024-06-26 14:37:10] BAT: 96.9 %
+logs/n112op_telemetry.log:[2024-06-26 14:38:10] BAT: 96.2 %
+logs/n112op_telemetry.log:[2024-06-26 14:39:10] BAT: 95.4 %
+logs/n112op_telemetry.log:[2024-06-26 14:40:10] BAT: 94.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:41:10] BAT: 94.2 %
+logs/n112op_telemetry.log:[2024-06-26 14:42:10] BAT: 93.3 %
+logs/n112op_telemetry.log:[2024-06-26 14:43:10] BAT: 92.5 %
+logs/n112op_telemetry.log:[2024-06-26 14:44:10] BAT: 91.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:45:10] BAT: 90.9 %
+logs/n112op_telemetry.log:[2024-06-26 14:46:10] BAT: 90.2 %
+logs/n112op_telemetry.log:[2024-06-26 14:47:10] BAT: 89.4 %
+logs/n112op_telemetry.log:[2024-06-26 14:48:10] BAT: 88.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:49:10] BAT: 88.1 %
+logs/n112op_telemetry.log:[2024-06-26 14:50:10] BAT: 87.4 %
+logs/n112op_telemetry.log:[2024-06-26 14:51:10] BAT: 86.6 %
+logs/n112op_telemetry.log:[2024-06-26 14:52:10] BAT: 86.1 %
+logs/n112op_telemetry.log:[2024-06-26 14:53:10] BAT: 85.2 %
+logs/n112op_telemetry.log:[2024-06-26 14:54:10] BAT: 84.7 %
+logs/n112op_telemetry.log:[2024-06-26 14:55:10] BAT: 83.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:56:10] BAT: 83.3 %
+logs/n112op_telemetry.log:[2024-06-26 14:57:10] BAT: 82.7 %
+logs/n112op_telemetry.log:[2024-06-26 14:58:10] BAT: 81.8 %
+logs/n112op_telemetry.log:[2024-06-26 14:59:10] BAT: 81.2 %
+logs/n112op_telemetry.log:[2024-06-26 15:00:10] BAT: 80.7 %
+logs/n112op_telemetry.log:[2024-06-26 15:01:10] BAT: 80.0 %
+logs/n112op_telemetry.log:[2024-06-26 15:02:10] BAT: 79.3 %
+logs/n112op_telemetry.log:[2024-06-26 15:03:10] BAT: 78.4%
+logs/n112op_telemetry.log:[2024-06-26 15:04:10] BAT: 77.5%
+logs/n112op_telemetry.log:[2024-06-26 15:05:10] BAT: 76.6%
+logs/n112op_telemetry.log:[2024-06-26 15:06:10] BAT: 75.8%
+logs/n112op_telemetry.log:[2024-06-26 15:07:10] BAT: 75.2%
+logs/n123ab_telemetry.log:[2024-06-26 14:33:10] BAT: 99.2 %
+logs/n123ab_telemetry.log:[2024-06-26 14:34:10] BAT: 98.4 %
+logs/n123ab_telemetry.log:[2024-06-26 14:35:10] BAT: 97.6 %
+logs/n123ab_telemetry.log:[2024-06-26 14:36:10] BAT: 96.7 %
+logs/n123ab_telemetry.log:[2024-06-26 14:37:10] BAT: 96.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:38:10] BAT: 95.3 %
+logs/n123ab_telemetry.log:[2024-06-26 14:39:10] BAT: 94.6 %
+logs/n123ab_telemetry.log:[2024-06-26 14:40:10] BAT: 93.9 %
+logs/n123ab_telemetry.log:[2024-06-26 14:41:10] BAT: 93.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:42:10] BAT: 92.4 %
+logs/n123ab_telemetry.log:[2024-06-26 14:43:10] BAT: 91.7 %
+logs/n123ab_telemetry.log:[2024-06-26 14:44:10] BAT: 91.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:45:10] BAT: 90.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:46:10] BAT: 89.3 %
+logs/n123ab_telemetry.log:[2024-06-26 14:47:10] BAT: 88.7 %
+logs/n123ab_telemetry.log:[2024-06-26 14:48:10] BAT: 87.9 %
+logs/n123ab_telemetry.log:[2024-06-26 14:49:10] BAT: 87.2 %
+logs/n123ab_telemetry.log:[2024-06-26 14:50:10] BAT: 86.3 %
+logs/n123ab_telemetry.log:[2024-06-26 14:51:10] BAT: 85.3 %
+logs/n123ab_telemetry.log:[2024-06-26 14:52:10] BAT: 84.7 %
+logs/n123ab_telemetry.log:[2024-06-26 14:53:10] BAT: 84.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:54:10] BAT: 83.0 %
+logs/n123ab_telemetry.log:[2024-06-26 14:55:10] BAT: 82.3 %
+logs/n123ab_telemetry.log:[2024-06-26 14:56:10] BAT: 81.5 %
+logs/n123ab_telemetry.log:[2024-06-26 14:57:10] BAT: 80.7 %
+logs/n123ab_telemetry.log:[2024-06-26 14:58:10] BAT: 79.9 %
+logs/n123ab_telemetry.log:[2024-06-26 14:59:10] BAT: 79.4 %
+logs/n123ab_telemetry.log:[2024-06-26 15:00:10] BAT: 78.5 %
+logs/n123ab_telemetry.log:[2024-06-26 15:01:10] BAT: 78.0 %
+logs/n123ab_telemetry.log:[2024-06-26 15:02:10] BAT: 77.5 %
+logs/n123ab_telemetry.log:[2024-06-26 15:03:10] BAT: 77.0%
+logs/n123ab_telemetry.log:[2024-06-26 15:04:10] BAT: 76.1%
+logs/n123ab_telemetry.log:[2024-06-26 15:05:10] BAT: 75.4%
+logs/n123ab_telemetry.log:[2024-06-26 15:06:10] BAT: 74.9%
+logs/n123ab_telemetry.log:[2024-06-26 15:07:10] BAT: 74.1%
+logs/n223wx_telemetry.log:[2024-06-26 14:33:10] BAT: 99.3 %
+logs/n223wx_telemetry.log:[2024-06-26 14:34:10] BAT: 98.4 %
+logs/n223wx_telemetry.log:[2024-06-26 14:35:10] BAT: 97.6 %
+logs/n223wx_telemetry.log:[2024-06-26 14:36:10] BAT: 97.1 %
+logs/n223wx_telemetry.log:[2024-06-26 14:37:10] BAT: 96.4 %
+logs/n223wx_telemetry.log:[2024-06-26 14:38:10] BAT: 95.7 %
+logs/n223wx_telemetry.log:[2024-06-26 14:39:10] BAT: 95.0 %
+logs/n223wx_telemetry.log:[2024-06-26 14:40:10] BAT: 94.0 %
+logs/n223wx_telemetry.log:[2024-06-26 14:41:10] BAT: 93.3 %
+logs/n223wx_telemetry.log:[2024-06-26 14:42:10] BAT: 92.7 %
+logs/n223wx_telemetry.log:[2024-06-26 14:43:10] BAT: 91.9 %
+logs/n223wx_telemetry.log:[2024-06-26 14:44:10] BAT: 91.0 %
+logs/n223wx_telemetry.log:[2024-06-26 14:45:10] BAT: 90.3 %
+logs/n223wx_telemetry.log:[2024-06-26 14:46:10] BAT: 89.7 %
+logs/n223wx_telemetry.log:[2024-06-26 14:47:10] BAT: 88.9 %
+logs/n223wx_telemetry.log:[2024-06-26 14:48:10] BAT: 88.4 %
+logs/n223wx_telemetry.log:[2024-06-26 14:49:10] BAT: 87.8 %
+logs/n223wx_telemetry.log:[2024-06-26 14:50:10] BAT: 87.2 %
+logs/n223wx_telemetry.log:[2024-06-26 14:51:10] BAT: 86.4 %
+logs/n223wx_telemetry.log:[2024-06-26 14:52:10] BAT: 85.6 %
+logs/n223wx_telemetry.log:[2024-06-26 14:53:10] BAT: 84.7 %
+logs/n223wx_telemetry.log:[2024-06-26 14:54:10] BAT: 84.0 %
+logs/n223wx_telemetry.log:[2024-06-26 14:55:10] BAT: 83.1 %
+logs/n223wx_telemetry.log:[2024-06-26 14:56:10] BAT: 82.5 %
+logs/n223wx_telemetry.log:[2024-06-26 14:57:10] BAT: 81.8 %
+logs/n223wx_telemetry.log:[2024-06-26 14:58:10] BAT: 81.1 %
+logs/n223wx_telemetry.log:[2024-06-26 14:59:10] BAT: 80.3 %
+logs/n223wx_telemetry.log:[2024-06-26 15:00:10] BAT: 79.4 %
+logs/n223wx_telemetry.log:[2024-06-26 15:01:10] BAT: 78.7 %
+logs/n223wx_telemetry.log:[2024-06-26 15:02:10] BAT: 78.1 %
+logs/n223wx_telemetry.log:[2024-06-26 15:03:10] BAT: 77.5%
+logs/n223wx_telemetry.log:[2024-06-26 15:04:10] BAT: 76.8%
+logs/n223wx_telemetry.log:[2024-06-26 15:05:10] BAT: 76.1%
+logs/n223wx_telemetry.log:[2024-06-26 15:06:10] BAT: 75.3%
+logs/n223wx_telemetry.log:[2024-06-26 15:07:10] BAT: 74.4%
+logs/n234ij_telemetry.log:[2024-06-26 14:33:10] BAT: 99.4 %
+logs/n234ij_telemetry.log:[2024-06-26 14:34:10] BAT: 98.7 %
+logs/n234ij_telemetry.log:[2024-06-26 14:35:10] BAT: 98.2 %
+logs/n234ij_telemetry.log:[2024-06-26 14:36:10] BAT: 97.4 %
+logs/n234ij_telemetry.log:[2024-06-26 14:37:10] BAT: 96.6 %
+logs/n234ij_telemetry.log:[2024-06-26 14:38:10] BAT: 95.9 %
+logs/n234ij_telemetry.log:[2024-06-26 14:39:10] BAT: 95.1 %
+logs/n234ij_telemetry.log:[2024-06-26 14:40:10] BAT: 94.5 %
+logs/n234ij_telemetry.log:[2024-06-26 14:41:10] BAT: 94.0 %
+logs/n234ij_telemetry.log:[2024-06-26 14:42:10] BAT: 93.4 %
+logs/n234ij_telemetry.log:[2024-06-26 14:43:10] BAT: 92.8 %
+logs/n234ij_telemetry.log:[2024-06-26 14:44:10] BAT: 92.1 %
+logs/n234ij_telemetry.log:[2024-06-26 14:45:10] BAT: 91.5 %
+logs/n234ij_telemetry.log:[2024-06-26 14:46:10] BAT: 90.7 %
+logs/n234ij_telemetry.log:[2024-06-26 14:47:10] BAT: 90.0 %
+logs/n234ij_telemetry.log:[2024-06-26 14:48:10] BAT: 89.5 %
+logs/n234ij_telemetry.log:[2024-06-26 14:49:10] BAT: 88.8 %
+logs/n234ij_telemetry.log:[2024-06-26 14:50:10] BAT: 88.0 %
+logs/n234ij_telemetry.log:[2024-06-26 14:51:10] BAT: 87.3 %
+logs/n234ij_telemetry.log:[2024-06-26 14:52:10] BAT: 86.7 %
+logs/n234ij_telemetry.log:[2024-06-26 14:53:10] BAT: 85.9 %
+logs/n234ij_telemetry.log:[2024-06-26 14:54:10] BAT: 85.0 %
+logs/n234ij_telemetry.log:[2024-06-26 14:55:10] BAT: 84.2 %
+logs/n234ij_telemetry.log:[2024-06-26 14:56:10] BAT: 83.3 %
+logs/n234ij_telemetry.log:[2024-06-26 14:57:10] BAT: 82.3 %
+logs/n234ij_telemetry.log:[2024-06-26 14:58:10] BAT: 81.6 %
+logs/n234ij_telemetry.log:[2024-06-26 14:59:10] BAT: 81.0 %
+logs/n234ij_telemetry.log:[2024-06-26 15:00:10] BAT: 80.2 %
+logs/n234ij_telemetry.log:[2024-06-26 15:01:10] BAT: 79.4 %
+logs/n234ij_telemetry.log:[2024-06-26 15:02:10] BAT: 78.8 %
+logs/n234ij_telemetry.log:[2024-06-26 15:03:10] BAT: 77.8%
+logs/n234ij_telemetry.log:[2024-06-26 15:04:10] BAT: 76.9%
+logs/n234ij_telemetry.log:[2024-06-26 15:05:10] BAT: 75.9%
+logs/n234ij_telemetry.log:[2024-06-26 15:06:10] BAT: 75.2%
+logs/n234ij_telemetry.log:[2024-06-26 15:07:10] BAT: 74.6%
+logs/n456cd_telemetry.log:[2024-06-26 14:33:10] BAT: 99.4 %
+logs/n456cd_telemetry.log:[2024-06-26 14:34:10] BAT: 98.9 %
+logs/n456cd_telemetry.log:[2024-06-26 14:35:10] BAT: 98.3 %
+logs/n456cd_telemetry.log:[2024-06-26 14:36:10] BAT: 97.7 %
+logs/n456cd_telemetry.log:[2024-06-26 14:37:10] BAT: 96.9 %
+logs/n456cd_telemetry.log:[2024-06-26 14:38:10] BAT: 96.0 %
+logs/n456cd_telemetry.log:[2024-06-26 14:39:10] BAT: 95.3 %
+logs/n456cd_telemetry.log:[2024-06-26 14:40:10] BAT: 94.8 %
+logs/n456cd_telemetry.log:[2024-06-26 14:41:10] BAT: 94.0 %
+logs/n456cd_telemetry.log:[2024-06-26 14:42:10] BAT: 93.0 %
+logs/n456cd_telemetry.log:[2024-06-26 14:43:10] BAT: 92.2 %
+logs/n456cd_telemetry.log:[2024-06-26 14:44:10] BAT: 91.5 %
+logs/n456cd_telemetry.log:[2024-06-26 14:45:10] BAT: 90.9 %
+logs/n456cd_telemetry.log:[2024-06-26 14:46:10] BAT: 90.2 %
+logs/n456cd_telemetry.log:[2024-06-26 14:47:10] BAT: 89.3 %
+logs/n456cd_telemetry.log:[2024-06-26 14:48:10] BAT: 88.4 %
+logs/n456cd_telemetry.log:[2024-06-26 14:49:10] BAT: 87.5 %
+logs/n456cd_telemetry.log:[2024-06-26 14:50:10] BAT: 86.5 %
+logs/n456cd_telemetry.log:[2024-06-26 14:51:10] BAT: 85.7 %
+logs/n456cd_telemetry.log:[2024-06-26 14:52:10] BAT: 84.8 %
+logs/n456cd_telemetry.log:[2024-06-26 14:53:10] BAT: 84.3 %
+logs/n456cd_telemetry.log:[2024-06-26 14:54:10] BAT: 83.5 %
+logs/n456cd_telemetry.log:[2024-06-26 14:55:10] BAT: 82.7 %
+logs/n456cd_telemetry.log:[2024-06-26 14:56:10] BAT: 81.8 %
+logs/n456cd_telemetry.log:[2024-06-26 14:57:10] BAT: 81.1 %
+logs/n456cd_telemetry.log:[2024-06-26 14:58:10] BAT: 80.3 %
+logs/n456cd_telemetry.log:[2024-06-26 14:59:10] BAT: 79.6 %
+logs/n456cd_telemetry.log:[2024-06-26 15:00:10] BAT: 78.6 %
+logs/n456cd_telemetry.log:[2024-06-26 15:01:10] BAT: 77.8 %
+logs/n456cd_telemetry.log:[2024-06-26 15:02:10] BAT: 77.1 %
+logs/n456cd_telemetry.log:[2024-06-26 15:03:10] BAT: 76.4%
+logs/n456cd_telemetry.log:[2024-06-26 15:04:10] BAT: 75.7%
+logs/n456cd_telemetry.log:[2024-06-26 15:05:10] BAT: 74.7%
+logs/n456cd_telemetry.log:[2024-06-26 15:06:10] BAT: 74.1%
+logs/n456cd_telemetry.log:[2024-06-26 15:07:10] BAT: 73.5%
+logs/n567kl_telemetry.log:[2024-06-26 14:33:10] BAT: 99.4 %
+logs/n567kl_telemetry.log:[2024-06-26 14:34:10] BAT: 98.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:35:10] BAT: 97.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:36:10] BAT: 96.9 %
+logs/n567kl_telemetry.log:[2024-06-26 14:37:10] BAT: 96.0 %
+logs/n567kl_telemetry.log:[2024-06-26 14:38:10] BAT: 95.4 %
+logs/n567kl_telemetry.log:[2024-06-26 14:39:10] BAT: 94.9 %
+logs/n567kl_telemetry.log:[2024-06-26 14:40:10] BAT: 94.1 %
+logs/n567kl_telemetry.log:[2024-06-26 14:41:10] BAT: 93.3 %
+logs/n567kl_telemetry.log:[2024-06-26 14:42:10] BAT: 92.6 %
+logs/n567kl_telemetry.log:[2024-06-26 14:43:10] BAT: 91.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:44:10] BAT: 90.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:45:10] BAT: 90.1 %
+logs/n567kl_telemetry.log:[2024-06-26 14:46:10] BAT: 89.2 %
+logs/n567kl_telemetry.log:[2024-06-26 14:47:10] BAT: 88.6 %
+logs/n567kl_telemetry.log:[2024-06-26 14:48:10] BAT: 88.0 %
+logs/n567kl_telemetry.log:[2024-06-26 14:49:10] BAT: 87.1 %
+logs/n567kl_telemetry.log:[2024-06-26 14:50:10] BAT: 86.6 %
+logs/n567kl_telemetry.log:[2024-06-26 14:51:10] BAT: 85.6 %
+logs/n567kl_telemetry.log:[2024-06-26 14:52:10] BAT: 84.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:53:10] BAT: 84.2 %
+logs/n567kl_telemetry.log:[2024-06-26 14:54:10] BAT: 83.5 %
+logs/n567kl_telemetry.log:[2024-06-26 14:55:10] BAT: 82.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:56:10] BAT: 81.8 %
+logs/n567kl_telemetry.log:[2024-06-26 14:57:10] BAT: 81.2 %
+logs/n567kl_telemetry.log:[2024-06-26 14:58:10] BAT: 80.7 %
+logs/n567kl_telemetry.log:[2024-06-26 14:59:10] BAT: 79.7 %
+logs/n567kl_telemetry.log:[2024-06-26 15:00:10] BAT: 78.9 %
+logs/n567kl_telemetry.log:[2024-06-26 15:01:10] BAT: 78.2 %
+logs/n567kl_telemetry.log:[2024-06-26 15:02:10] BAT: 77.7 %
+logs/n567kl_telemetry.log:[2024-06-26 15:03:10] BAT: 76.8%
+logs/n567kl_telemetry.log:[2024-06-26 15:04:10] BAT: 75.9%
+logs/n567kl_telemetry.log:[2024-06-26 15:05:10] BAT: 75.2%
+logs/n567kl_telemetry.log:[2024-06-26 15:06:10] BAT: 74.4%
+logs/n567kl_telemetry.log:[2024-06-26 15:07:10] BAT: 73.9%
+logs/n678st_telemetry.log:[2024-06-26 14:33:10] BAT: 99.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:34:10] BAT: 98.7 %
+logs/n678st_telemetry.log:[2024-06-26 14:35:10] BAT: 97.7 %
+logs/n678st_telemetry.log:[2024-06-26 14:36:10] BAT: 97.0 %
+logs/n678st_telemetry.log:[2024-06-26 14:37:10] BAT: 96.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:38:10] BAT: 95.7 %
+logs/n678st_telemetry.log:[2024-06-26 14:39:10] BAT: 94.8 %
+logs/n678st_telemetry.log:[2024-06-26 14:40:10] BAT: 94.3 %
+logs/n678st_telemetry.log:[2024-06-26 14:41:10] BAT: 93.4 %
+logs/n678st_telemetry.log:[2024-06-26 14:42:10] BAT: 92.8 %
+logs/n678st_telemetry.log:[2024-06-26 14:43:10] BAT: 91.9 %
+logs/n678st_telemetry.log:[2024-06-26 14:44:10] BAT: 91.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:45:10] BAT: 90.5 %
+logs/n678st_telemetry.log:[2024-06-26 14:46:10] BAT: 89.9 %
+logs/n678st_telemetry.log:[2024-06-26 14:47:10] BAT: 89.3 %
+logs/n678st_telemetry.log:[2024-06-26 14:48:10] BAT: 88.4 %
+logs/n678st_telemetry.log:[2024-06-26 14:49:10] BAT: 87.6 %
+logs/n678st_telemetry.log:[2024-06-26 14:50:10] BAT: 86.8 %
+logs/n678st_telemetry.log:[2024-06-26 14:51:10] BAT: 86.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:52:10] BAT: 85.6 %
+logs/n678st_telemetry.log:[2024-06-26 14:53:10] BAT: 84.9 %
+logs/n678st_telemetry.log:[2024-06-26 14:54:10] BAT: 84.3 %
+logs/n678st_telemetry.log:[2024-06-26 14:55:10] BAT: 83.7 %
+logs/n678st_telemetry.log:[2024-06-26 14:56:10] BAT: 83.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:57:10] BAT: 82.2 %
+logs/n678st_telemetry.log:[2024-06-26 14:58:10] BAT: 81.5 %
+logs/n678st_telemetry.log:[2024-06-26 14:59:10] BAT: 80.8 %
+logs/n678st_telemetry.log:[2024-06-26 15:00:10] BAT: 80.3 %
+logs/n678st_telemetry.log:[2024-06-26 15:01:10] BAT: 79.7 %
+logs/n678st_telemetry.log:[2024-06-26 15:02:10] BAT: 79.0 %
+logs/n678st_telemetry.log:[2024-06-26 15:03:10] BAT: 78.0%
+logs/n678st_telemetry.log:[2024-06-26 15:04:10] BAT: 77.4%
+logs/n678st_telemetry.log:[2024-06-26 15:05:10] BAT: 76.5%
+logs/n678st_telemetry.log:[2024-06-26 15:06:10] BAT: 75.7%
+logs/n678st_telemetry.log:[2024-06-26 15:07:10] BAT: 75.0%
+logs/n789ef_telemetry.log:[2024-06-26 14:33:10] BAT: 99.3 %
+logs/n789ef_telemetry.log:[2024-06-26 14:34:10] BAT: 98.3 %
+logs/n789ef_telemetry.log:[2024-06-26 14:35:10] BAT: 97.3 %
+logs/n789ef_telemetry.log:[2024-06-26 14:36:10] BAT: 96.8 %
+logs/n789ef_telemetry.log:[2024-06-26 14:37:10] BAT: 96.2 %
+logs/n789ef_telemetry.log:[2024-06-26 14:38:10] BAT: 95.6 %
+logs/n789ef_telemetry.log:[2024-06-26 14:39:10] BAT: 94.8 %
+logs/n789ef_telemetry.log:[2024-06-26 14:40:10] BAT: 94.0 %
+logs/n789ef_telemetry.log:[2024-06-26 14:41:10] BAT: 93.3 %
+logs/n789ef_telemetry.log:[2024-06-26 14:42:10] BAT: 92.5 %
+logs/n789ef_telemetry.log:[2024-06-26 14:43:10] BAT: 92.0 %
+logs/n789ef_telemetry.log:[2024-06-26 14:44:10] BAT: 91.5 %
+logs/n789ef_telemetry.log:[2024-06-26 14:45:10] BAT: 90.8 %
+logs/n789ef_telemetry.log:[2024-06-26 14:46:10] BAT: 89.9 %
+logs/n789ef_telemetry.log:[2024-06-26 14:47:10] BAT: 89.2 %
+logs/n789ef_telemetry.log:[2024-06-26 14:48:10] BAT: 88.4 %
+logs/n789ef_telemetry.log:[2024-06-26 14:49:10] BAT: 87.8 %
+logs/n789ef_telemetry.log:[2024-06-26 14:50:10] BAT: 87.1 %
+logs/n789ef_telemetry.log:[2024-06-26 14:51:10] BAT: 86.6 %
+logs/n789ef_telemetry.log:[2024-06-26 14:52:10] BAT: 86.0 %
+logs/n789ef_telemetry.log:[2024-06-26 14:53:10] BAT: 85.3 %
+logs/n789ef_telemetry.log:[2024-06-26 14:54:10] BAT: 84.8 %
+logs/n789ef_telemetry.log:[2024-06-26 14:55:10] BAT: 84.1 %
+logs/n789ef_telemetry.log:[2024-06-26 14:56:10] BAT: 83.5 %
+logs/n789ef_telemetry.log:[2024-06-26 14:57:10] BAT: 82.9 %
+logs/n789ef_telemetry.log:[2024-06-26 14:58:10] BAT: 82.0 %
+logs/n789ef_telemetry.log:[2024-06-26 14:59:10] BAT: 81.1 %
+logs/n789ef_telemetry.log:[2024-06-26 15:00:10] BAT: 80.6 %
+logs/n789ef_telemetry.log:[2024-06-26 15:01:10] BAT: 79.8 %
+logs/n789ef_telemetry.log:[2024-06-26 15:02:10] BAT: 79.0 %
+logs/n789ef_telemetry.log:[2024-06-26 15:03:10] BAT: 78.5%
+logs/n789ef_telemetry.log:[2024-06-26 15:04:10] BAT: 77.8%
+logs/n789ef_telemetry.log:[2024-06-26 15:05:10] BAT: 76.9%
+logs/n789ef_telemetry.log:[2024-06-26 15:06:10] BAT: 76.0%
+logs/n789ef_telemetry.log:[2024-06-26 15:07:10] BAT: 75.1%
+logs/n890mn_telemetry.log:[2024-06-26 14:33:10] BAT: 99.3 %
+logs/n890mn_telemetry.log:[2024-06-26 14:34:10] BAT: 98.7 %
+logs/n890mn_telemetry.log:[2024-06-26 14:35:10] BAT: 97.9 %
+logs/n890mn_telemetry.log:[2024-06-26 14:36:10] BAT: 97.1 %
+logs/n890mn_telemetry.log:[2024-06-26 14:37:10] BAT: 96.3 %
+logs/n890mn_telemetry.log:[2024-06-26 14:38:10] BAT: 95.7 %
+logs/n890mn_telemetry.log:[2024-06-26 14:39:10] BAT: 95.0 %
+logs/n890mn_telemetry.log:[2024-06-26 14:40:10] BAT: 94.0 %
+logs/n890mn_telemetry.log:[2024-06-26 14:41:10] BAT: 93.2 %
+logs/n890mn_telemetry.log:[2024-06-26 14:42:10] BAT: 92.6 %
+logs/n890mn_telemetry.log:[2024-06-26 14:43:10] BAT: 91.9 %
+logs/n890mn_telemetry.log:[2024-06-26 14:44:10] BAT: 91.3 %
+logs/n890mn_telemetry.log:[2024-06-26 14:45:10] BAT: 90.5 %
+logs/n890mn_telemetry.log:[2024-06-26 14:46:10] BAT: 89.7 %
+logs/n890mn_telemetry.log:[2024-06-26 14:47:10] BAT: 88.9 %
+logs/n890mn_telemetry.log:[2024-06-26 14:48:10] BAT: 88.0 %
+logs/n890mn_telemetry.log:[2024-06-26 14:49:10] BAT: 87.4 %
+logs/n890mn_telemetry.log:[2024-06-26 14:50:10] BAT: 86.4 %
+logs/n890mn_telemetry.log:[2024-06-26 14:51:10] BAT: 85.4 %
+logs/n890mn_telemetry.log:[2024-06-26 14:52:10] BAT: 84.5 %
+logs/n890mn_telemetry.log:[2024-06-26 14:53:10] BAT: 83.7 %
+logs/n890mn_telemetry.log:[2024-06-26 14:54:10] BAT: 83.1 %
+logs/n890mn_telemetry.log:[2024-06-26 14:55:10] BAT: 82.6 %
+logs/n890mn_telemetry.log:[2024-06-26 14:56:10] BAT: 81.8 %
+logs/n890mn_telemetry.log:[2024-06-26 14:57:10] BAT: 81.0 %
+logs/n890mn_telemetry.log:[2024-06-26 14:58:10] BAT: 80.1 %
+logs/n890mn_telemetry.log:[2024-06-26 14:59:10] BAT: 79.3 %
+logs/n890mn_telemetry.log:[2024-06-26 15:00:10] BAT: 78.3 %
+logs/n890mn_telemetry.log:[2024-06-26 15:01:10] BAT: 77.6 %
+logs/n890mn_telemetry.log:[2024-06-26 15:02:10] BAT: 76.6 %
+logs/n890mn_telemetry.log:[2024-06-26 15:03:10] BAT: 76.1%
+logs/n890mn_telemetry.log:[2024-06-26 15:04:10] BAT: 75.1%
+logs/n890mn_telemetry.log:[2024-06-26 15:05:10] BAT: 74.5%
+logs/n890mn_telemetry.log:[2024-06-26 15:06:10] BAT: 73.7%
+logs/n890mn_telemetry.log:[2024-06-26 15:07:10] BAT: 73.0%
